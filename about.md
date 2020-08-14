@@ -1,11 +1,11 @@
 ---
-title: About Us
-subtitle: This is a short page about us and our work.
+title: About Me
+subtitle: I'm an illustrator specialising in fun, educational illustrations for the heritage sector.
 image: images/about.jpg
 layout: page
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus magna elementum lorem, ut bibendum tellus turpis quis risus. Vivamus sagittis enim est, et semper lectus hendrerit ut.
+I'm an illustrator specialising in fun, educational illustrations for the heritage sector.
 
 >The world always seems brighter when you’ve just made something that wasn’t there before. - Neil Gaiman
 

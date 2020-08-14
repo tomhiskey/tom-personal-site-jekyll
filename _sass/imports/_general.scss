@@ -466,11 +466,11 @@ img {
   position: relative;
 
   &:before {
-    border-left: 45px solid _palette(accent);
+    /* border-left: 45px solid _palette(accent);
     content: "";
     display: block;
     height: 3px;
-    margin-bottom: 0.83333rem;
+    margin-bottom: 0.83333rem; */
   }
 }
 
