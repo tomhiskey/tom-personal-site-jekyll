@@ -4,19 +4,19 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, Im Abi Hiskey – an illustrator for the cultural and heritage sectors.'
+things    title: 'Hi, I'm Abi Hiskey – an illustrator for the cultural and heritage sectors.'
     content: >-
       This section can contain a subtitle or tagline. The recommended length is
       one to three sentences, but can be changed as you prefer.
     actions:
-      - label: Let's talk
+      - label: Get in touch
         url: /contact
-        style: button
+        style: link
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Recent Work
-    subtitle: An optional subtitle of the section
+    title: 
+    subtitle: 
     projects_number: 6
     view_all_label: View All
     view_all_url: portfolio
