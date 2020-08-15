@@ -27,7 +27,7 @@ header:
       url: /contact/
       style: link
 footer:
-  content: '&copy; Stackbit-Exto. All rights reserved.'
+  content: '&copy; Abi Hiskey'
   links:
     - label: Made with Stackbit.
       url: 'https://www.stackbit.com'
@@ -36,22 +36,17 @@ footer:
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/'
+      url: 'https://twitter.com/abihiskey'
       style: icon
       icon_class: fa-twitter
       new_window: true
     - label: Instagram
-      url: 'https://www.instagram.com/'
+      url: 'https://www.instagram.com/illustratedbyabihiskey/'
       style: icon
       icon_class: fa-instagram
       new_window: true
-    - label: Dribbble
-      url: 'https://dribbble.com/'
-      style: icon
-      icon_class: fa-dribbble
-      new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
+      url: 'https://www.linkedin.com/in/abigail-hiskey-3471b82a/'
       style: icon
       icon_class: fa-linkedin
       new_window: true
