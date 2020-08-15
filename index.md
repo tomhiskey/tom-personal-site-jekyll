@@ -7,6 +7,8 @@ sections:
     title: Hi, I'm Abi – an illustrator for the cultural and heritage sectors
     content: >-
       My illustrations are fun and educational. If you work in a museum or gallery and you're thinking about your next project, [I'd love to chat]().
+
+      >Working with an illustrator as talented and flexible as Abi is a joy - Museum of London
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
@@ -17,21 +19,17 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What We Do
-    subtitle: An optional subtitle of the section
-    col_number: two
-    is_numbered: true
+    title: Clients
+    subtitle: 
+    col_number: three
+    is_numbered: false
     grid_items:
       - title: Service Title
         content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+          IMAGE GOES HERE?
       - title: Service Title
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          IMAGE GOES HERE?
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero

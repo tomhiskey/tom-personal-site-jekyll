@@ -17,8 +17,8 @@ header:
     - label: Projects
       url: /portfolio/
       style: link
-    - label: Blog
-      url: /blog/
+    - label: Clients
+      url: /clients/
       style: link
     - label: About
       url: /about/
