@@ -1,5 +1,5 @@
 ---
-title: York Castle Museum
+title: Paper Dolls @ York Castle Museum
 subtitle: Optional Project Subtitle
 date: '2020-05-10'
 thumb_image: images/york-castle-museum-illustration-edwardian-lady.jpg
