@@ -4,10 +4,9 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: Hi, I'm Abi Hiskey – an illustrator for the cultural and heritage sectors.
+    title: Hi, I'm Abi – an illustrator for the cultural and heritage sectors
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      My illustrations are fun and educational. If you work in a museum or gallery and you're thinking about your next project, I'd love to chat.
     actions:
       - label: Get in touch
         url: /contact

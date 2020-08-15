@@ -2,7 +2,7 @@
  * Site Header
  */
 .site-header {
-  border-bottom: 1px solid _palette(charcoal-light-75);
+  /* border-bottom: 1px solid _palette(charcoal-light-75); */
   padding-bottom: 1em;
   padding-top: 1em;
 }
@@ -36,7 +36,7 @@
 }
 
 .site-title {
-  color: #fff;
+  color: #222222;
   font-size: 1.22222em;
   font-weight: bold;
   line-height: 1.1;
@@ -44,7 +44,7 @@
   text-transform: uppercase;
 
   a {
-    background: _palette(accent);
+    /* background: _palette(accent); */
     display: inline-block;
     padding: 0.2em 0.45em;
   }
