@@ -117,7 +117,7 @@ blockquote {
     color: _palette(accent);
     content: "\201C";
     font-size: 2.5em;
-    left: -35px; /* was 0 - affecfs blockquotes */
+    left: -38px; /* was 0 - affecfs blockquotes */
     line-height: 1;
     position: absolute;
     top: 0;
@@ -504,6 +504,13 @@ img {
     -ms-flex-preferred-size: 33.333%;
     flex-basis: 33.333%;
     max-width: 33.333%;
+  }
+}
+
+/* added */
+.grid-col-3 {
+  img {
+    max-width: 70%;
   }
 }
 

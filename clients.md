@@ -1,31 +1,27 @@
 ---
 title: Clients
-subtitle: Some of the things
+subtitle: I've worked with museums and galleries across the UK
 image: 
 layout: advanced
 sections:
   - section_id: services
     type: section_grid
-    title: Clients
+    title: 
     subtitle: 
     col_number: three
     is_numbered: false
     grid_items:
-      - title: title
-        content: >-
-          IMAGE GOES HERE?
+      - title: 
+        content:
         image: images/logo-museum-of-london.jpg?width=550
-      - title: title
-        content: >-
-          IMAGE GOES HERE?
+      - title: 
+        content:
         image: images/logo-national-maritime-museum.jpg
-      - title: Service Title
-        content: >-
-          IMAGE GOES HERE?
+      - title: 
+        content: 
         image: images/logo-york-art-gallery-castle.jpg
-      - title: Service title
-        content: >-
-          IMAGE GOES HERE?
+      - title: 
+        content: 
         image: images/logo-york-museums-trust.jpg
   - section_id: testimonials
     type: section_testimonials
