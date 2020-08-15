@@ -1,4 +1,4 @@
-title: Stackbit Exto Theme
+title: Abi Hiskey
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -8,20 +8,17 @@ description: A portfolio theme with a blog
 color_scheme: light
 accent_color: pink
 header:
-  title: Exto
+  title: Abi Hiskey
   has_nav: true
   nav_links:
     - label: Home
       url: /
       style: link
-    - label: Portfolio
+    - label: Projects
       url: /portfolio/
       style: link
     - label: Blog
       url: /blog/
-      style: link
-    - label: Style Guide
-      url: /style-guide/
       style: link
     - label: About
       url: /about/
