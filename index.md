@@ -1,11 +1,9 @@
 ---
-title: Hello there! I'm a digital product designer and manager
+title: Hello there! I'm a lead product designer and manager
 hide_title: false
-subtitle: I'm Lead Product Designer @ Farewill
+subtitle: I live in York and work for London-based startup Farewill. We're changing the way the world deals with death.
 layout: page
 ---
-
-I live in York and work for London-based startup Farewill, helping to change the way the world deals with death. 
 
 I like solving complex problems, collaboratively.
 
