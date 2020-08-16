@@ -1,4 +1,4 @@
-title: Abi Hiskey
+title: Tom Hiskey
 baseurl: /
 permalink: '/:title/'
 collections:
@@ -8,17 +8,17 @@ description: A portfolio theme with a blog
 color_scheme: light
 accent_color: pink
 header:
-  title: Abi Hiskey
+  title: Tom Hiskey
   has_nav: true
   nav_links:
     - label: Home
       url: /
       style: link
-    - label: Projects
+    - label: Work
       url: /portfolio/
       style: link
-    - label: Clients
-      url: /clients/
+    - label: Blog
+      url: /blog/
       style: link
     - label: About
       url: /about/
@@ -27,7 +27,7 @@ header:
       url: /contact/
       style: link
 footer:
-  content: '&copy; Abi Hiskey'
+  content: '&copy; Tom Hiskey'
   links:
     - label: Made with Stackbit.
       url: 'https://www.stackbit.com'

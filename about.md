@@ -1,36 +1,34 @@
 ---
 title: About Me
-subtitle: I'm an illustrator specialising in fun, educational illustrations for the heritage sector.
-image: images/abi-hiskey-illustrator.jpg
+subtitle: As a product designer, I join the dots between problems and outcomes humbly, openly and collaboratively
+image: 
 layout: page
 ---
 
-Before becoming a professional illustrator, I was a museum professional. I worked with collections across the north of England, including Sheffield Galleries & Museums Trust, York Museums Trust and Hull Museums. I also spent two years as the Editor of Young Archaeologist Magazine.
+I need to know the why, so I love working with researchers and doing research myself. 
 
->Working with an illustrator as talented and flexible as Abi is a joy - Museum of London
+I always work collaboratively. I love being part of a cross-functional product team.
 
-I have an MA in Museum Studies from the University of Newcastle, a degree in History of Art from the University of York and an Art & Design Foundation BTEC Diploma.
+I like to lead projects and bring others along on the journey. 
 
-![alt text](/images/abi-hiskey-museum-london-docklands.jpg "Logo Title Text 1")
+Time and effort upfront almost always leads to better outcomes. But I avoid process for the sake of it – I like to work purposefully.
 
-I enjoy making illustrations that are not only lively and engaging but also historically accurate.
+I need to be making an impact on important problems. That's why at the moment I'm enjoying working in death and bereavement.
 
-I've worked with galleries, museums and heritage sites all over the UK, including the Museum of London, the National Maritime Museum and York Museums Trust. 
+As much as design, I enjoy management. To me, that means helping others achieve great outcomes. For creative, high performing people, management is mainly about support, and creating and environment to work with autonomy, mastery and purpose.
 
-My illustrations are used in a variety of ways, including:
+Besides management, I try and be a good leader. Often, that's about listening actively and caring genuinely.
 
-* Family trails
-* Exhibition captions for children
-* Illustrated maps
-* Educational resources
-* Activity sheets
-* Marketing materials
-* Animated videos
-* Merchandise
-* Life sized character cut outs!
+I never do anything perfectly. I enjoy learning and levelling up, and helping those around me level up too.
 
-![alt text](/images/abi-hiskey-docklands-illustration.jpg "Logo Title Text 1")
+I keep a strict work-life balance so I can be with my family, pursue my hobbies and find creative ways to waste time. 
 
-I live in York and work with clients all over the UK.
+I live in York.
 
-If you're looking for an illustrator, [I'd love to chat](/contact)!
+## Me...
+
+Communication · solving complex problems · research · running projects · collaboration · usability · UI · content design · outcomes · active listening · support · management
+
+## Not me...
+E-commerce · marketing · sales · branding · native apps · some of the finer aspects of visual design · typography · illustration · fancy interactions · coding (mostly)
+

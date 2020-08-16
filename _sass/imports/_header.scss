@@ -4,7 +4,7 @@
 .site-header {
   /* border-bottom: 1px solid _palette(charcoal-light-75); */
   padding-bottom: 1em;
-  padding-top: 1em;
+  padding-top: 1.8em;
 }
 
 .site-header-inside {
@@ -14,8 +14,8 @@
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  border-bottom: 1px solid #dedede;
-  padding-bottom: 16px;
+  /* border-bottom: 1px solid #dedede;
+  padding-bottom: 16px;  */
 }
 
 .site-branding {
@@ -39,11 +39,13 @@
 
 .site-title {
   color: #222222;
-  font-size: 1.22222em;
+  font-size: 1.4em;
   font-weight: 500;
   line-height: 1.1;
   margin: 0;
   text-transform: none;
+  font-family: _font(header);
+  margin-top: 2px; /* added */
 
   a {
     /* background: _palette(accent); */
@@ -59,7 +61,7 @@
 }
 
 .menu-item {
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.2;
 
   &.current-menu-item {

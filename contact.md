@@ -1,10 +1,15 @@
 ---
 title: Contact me
-subtitle: Hi there, I'd love to hear from you!
+subtitle: 
 image: 
 layout: page
 ---
 
-Feel free to drop my an email: abi@abihiskey.co.uk
+Feel free to get in touch 
 
-Or find me on Instagram, Twitter and LinkedIn.
+tomhiskey@gmail.com
+
+LinkedIn
+
+Twitter
+
