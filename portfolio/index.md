@@ -1,6 +1,6 @@
 ---
 title: Projects
-subtitle: Some examples of my work
+subtitle: Paper dolls, trawlers, sculptors and a William Wilberforce peacock, among other things
 layout_style: mosaic
 layout: portfolio
 ---

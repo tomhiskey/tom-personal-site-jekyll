@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: Hi, I'm Abi – an illustrator for the cultural and heritage sectors
     content: >-
-      My illustrations are fun and educational. If you work in a museum or gallery and you're thinking about your next project, [I'd love to chat](/contact).
+      My illustrations are fun and educational. If you work in a museum or gallery and you're thinking about your next project, [I'd love to chat](/contact)!
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
