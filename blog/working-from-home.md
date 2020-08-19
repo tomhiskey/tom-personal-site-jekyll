@@ -5,7 +5,7 @@ excerpt: >-
   commodo odio aenean sed adipiscing diam donec. Vitae congue mauris rhoncus
   aenean vel elit.
 date: '2016-08-22'
-thumb_image: images/9.jpg
+thumb_image: 
 image: images/9.jpg
 layout: post
 ---
