@@ -5,6 +5,5 @@ subtitle: I live in York and work for London-based startup Farewill. We're chang
 layout: page
 ---
 
-As a product designer, I join the dots between problems and outcomes openly and collaboratively. As a manager, I support others and help them achieve great outcomes.
 
 ![alt text](/images/tom-sticky-notes.jpg "Logo Title Text 1")

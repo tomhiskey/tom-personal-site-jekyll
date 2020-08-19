@@ -4,7 +4,7 @@ subtitle: I'm a Lead Product Designer at Farewill. Here's a mix of design projec
 layout: page
 ---
 
-### [Taking care over internal tools @ Farewill]()
+### [Taking care over internal tools @ Farewill](/portfolio/taking-care-internal-tools-farewill)
 Complex problems · Testing · Collaboration · Communication · Detail · Project management (2020)
 
 ### Being a manager @ Farewill
