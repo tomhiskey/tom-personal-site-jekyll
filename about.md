@@ -1,9 +1,17 @@
 ---
 title: About Me
-subtitle: As a product designer, I try to join the dots between problems and outcomes, openly and collaboratively. As a manager, I do my best to support others and help them achieve great outcomes.
+subtitle: 
 image: 
 layout: page
 ---
+
+> Curiosity, positivity, kindness, and a 'start with why' approach! Also some dope designs.
+
+360 feedback from a colleague, May 2020
+
+![Me at a design crit](/images/Farewill-design-crit-arrow.png "Me at a design crit")
+
+As a product designer, I try to join the dots between problems and outcomes, openly and collaboratively. As a manager, I do my best to support others and help them achieve great outcomes.
 
 I'm super invested in needs and problems. I prefer to be involved from the start – doing primary research or working with researchers and PMs. I love leading on projects and running a collaborative, open process where we're reaching great outcomes, together. I'm at my happiest working on meaningful problems as part of an in-house cross-functional product team.
 
@@ -11,10 +19,10 @@ As much as design, I enjoy management. To me, that means helping others achieve 
 
 #### This is me...
 
-Communication · collaboration · complex problems · research · leading projects · usability · UI · content design · outcomes · active listening · support · empahy · kindness · openness
+Communication · collaboration · complex problems · research · leading projects · usability · UI · content design · outcomes · active listening · support · empathy · kindness · openness
 
-#### This isn't me...
-E-commerce · marketing · sales · branding · native apps · some aspects of visual design · typography · illustration · coding (mostly)
+#### Not so much...
+E-commerce · marketing · sales · branding · native apps · haptics · some aspects of visual design · typography · illustration · coding (mostly)
 
 ## Getting to know me
 

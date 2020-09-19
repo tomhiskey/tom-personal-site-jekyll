@@ -1,7 +1,8 @@
 ---
 title: Blog FISH
-subtitle: 'News, tips and highlights'
+subtitle: 'This'
 hide_title: false
-col_number: three
+col_number: two
 layout: blog
 ---
+Testing HELLO HELLO
