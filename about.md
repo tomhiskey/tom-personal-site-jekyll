@@ -7,27 +7,55 @@ layout: page
 
 > Curiosity, positivity, kindness, and a 'start with why' approach! Also some dope designs.
 
-...360 feedback from a colleague, May 2020
+– *360 feedback from a colleague, May 2020*
+
+I'm a lead product designer – I try to join the dots between problems and outcomes, openly and collaboratively. As a manager, I love helping others to be the best they can be. 
+
+### Get to know me...
+
+- [Read my user manual]()
+- Read my DiSC profile (coming soon)
+- Find out [What's included]()
 
 ![Me at a design crit](/images/Farewill-design-crit-arrow.png "Me at a design crit")
 
-As a product designer, I try to join the dots between problems and outcomes, openly and collaboratively. As a manager, I do my best to support others and help them achieve great outcomes.
+## User manual
 
-I'm super invested in needs and problems. I prefer to be involved from the start – doing primary research or working with researchers and PMs. I love leading on projects and running a collaborative, open process where we're reaching great outcomes, together. I'm at my happiest working on meaningful problems as part of an in-house cross-functional product team.
+This
 
-As much as design, I enjoy management. To me, that means helping others achieve great outcomes and creating an environment for people to work with autonomy, mastery and purpose.
+## Disc profile
 
-#### This is me...
+Coming soon
 
-Communication · collaboration · complex problems · research · leading projects · usability · UI · content design · outcomes · active listening · support · empathy · kindness · openness
+## What's included?
 
-#### Not so much...
-E-commerce · marketing · sales · branding · native apps · haptics · some aspects of visual design · typography · illustration · coding (mostly)
+**Included with me:**
 
-## Getting to know me
+- Communication
+- Collaboration
+- Empathy
+- Kindness 
+- Teamwork
+- Research
+- Scrappiness 
+- Usability
+- UI
+- Content design
+- Openness 
+- Leading projects
+- Tackling complex problems
 
-It can be super tricky to get to know colleagues so I've written this user manual ... 
-+ User manual
-+ DiSC profile
+**Not (usually) included with me:**
+
+- E-commerce 
+- Marketing 
+- Sales
+- Branding 
+- Native apps 
+- Haptics 
+- Typography 
+- Illustration
+- Animation
+- Coding
 
 
