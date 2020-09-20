@@ -32,13 +32,13 @@ I set up GitHub Pages for the respository [as described here](https://guides.git
 
 For the 'Source', I picked the 'docs' folder in the master branch.
 
-![GitHub Pages settings](/img/github-pages-settings.png)
+![GitHub Pages settings](/images/github-pages-settings.png)
 
 ## 3 - Tell GitHub Pages I'm not using Jekyll 
 
 GitHub Pages seemed to be getting confused that I wasn't using Jekyll (I was getting build error emails). So [as described here](https://help.github.com/en/github/working-with-github-pages/about-github-pages#static-site-generators) I added a blank file called .nojekyll. 
 
-![Adding .nojekyll file](/img/nojekyll.png)<em>I added a file called .nojekyll in the root folder</em>
+![Adding .nojekyll file](/images/nojekyll.png)<em>I added a file called .nojekyll in the root folder</em>
 
 ## 4 - Change the 11ty output directory to /docs/
 
@@ -61,7 +61,7 @@ dir: {
 
 Once I'd pushed everything to GitHub, the site appeared on GitHub Pages! But it looked like this:
 
-![Adding .nojekyll file](/img/eleventy-github-pages-site-prefix.png)
+![Adding .nojekyll file](/images/eleventy-github-pages-site-prefix.png)
 
 Links to my CSS, my .js file and images were broken. 
 
@@ -93,12 +93,12 @@ For the images, I did a find and replace.
 
 I found all instances of this:
 ```
-/img/
+/images/
 ```
 
 and replaced them with this:
 ```
-/img/
+/images/
 ```
 
 ## 7 - Create a custom domain and UNDO #5 and #6

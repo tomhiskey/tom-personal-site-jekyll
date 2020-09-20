@@ -7,7 +7,7 @@ layout: page
 
 > Curiosity, positivity, kindness, and a 'start with why' approach! Also some dope designs.
 
-360 feedback from a colleague, May 2020
+...360 feedback from a colleague, May 2020
 
 ![Me at a design crit](/images/Farewill-design-crit-arrow.png "Me at a design crit")
 
@@ -26,9 +26,8 @@ E-commerce · marketing · sales · branding · native apps · haptics · some a
 
 ## Getting to know me
 
-It can be super tricky to get to know colleagues so I've written this user manyal ... 
+It can be super tricky to get to know colleagues so I've written this user manual ... 
 + User manual
 + DiSC profile
-
 
 

@@ -8,7 +8,7 @@ layout: post
 
 I’m a big fan of this diagram as a way of summing up the role of user experience in businesses:
 
-![UX models - implementation, representation, mental](/img/UX-models-TPH-2015-09-231-720x391.png)
+![UX models - implementation, representation, mental](/images/UX-models-TPH-2015-09-231-720x391.png)
  
 It represents three models for software and service development: ‘implementation’, ‘representation’ and ‘mental’. Jargony, but simple to understand.
 

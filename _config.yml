@@ -36,17 +36,12 @@ footer:
   has_social: true
   social_links:
     - label: Twitter
-      url: 'https://twitter.com/abihiskey'
+      url: 'https://twitter.com/tomhiskey'
       style: icon
       icon_class: fa-twitter
       new_window: true
-    - label: Instagram
-      url: 'https://www.instagram.com/illustratedbyabihiskey/'
-      style: icon
-      icon_class: fa-instagram
-      new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/in/abigail-hiskey-3471b82a/'
+      url: 'https://www.linkedin.com/in/tom-hiskey-79390822/'
       style: icon
       icon_class: fa-linkedin
       new_window: true

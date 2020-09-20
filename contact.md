@@ -9,7 +9,7 @@ Feel free to get in touch
 
 tomhiskey@gmail.com
 
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/tom-hiskey-79390822/)
 
-Twitter
+[Twitter](https://twitter.com/tomhiskey)
 
