@@ -9,7 +9,7 @@ layout: page
 
 – *360 feedback from a colleague, May 2020*
 
-I'm a lead product designer – I try to join the dots between problems and outcomes, openly and collaboratively. As a manager, I love helping others to be the best they can be. 
+I'm an in-house lead product designer and manager. As a designer I join the dots between problems and outcomes, openly and collaboratively. As a manager, I love helping others to be the best they can be. 
 
 ### Get to know me...
 
