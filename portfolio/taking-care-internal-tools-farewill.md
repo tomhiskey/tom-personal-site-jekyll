@@ -1,6 +1,6 @@
 ---
 title: Taking care over internal tools @ Farewill
-subtitle: Complex problems · Internal tools · Collaboration · Communication · Observation (2020)
+subtitle: Complex problems · Testing · Collaboration · Communication · Leading projects (2020)
 date: '2020-05-10'
 thumb_image: 
 image: images/what-happens-next-hi-fi-mockup.png
@@ -78,3 +78,4 @@ As of September 2020 the project is still ongoing – I’ll update this bit soo
 
 *I have one reflection already – that no amount of user testing with wireframes can replicate running real life cases through an active system.*
 
+[Next project →](/portfolio/being-a-manager)

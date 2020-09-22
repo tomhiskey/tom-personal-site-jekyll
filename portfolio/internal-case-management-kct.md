@@ -91,3 +91,4 @@ Sadly, I left KCT before the new system launched. From catching up with former c
 - I wish I’d pushed more for a fundamental rethink of how we managed cases and our expectations of technology – but I lacked the confidence and skill to try
 - In terms of the UI, my designs relied too heavily on icons – my rationale at the time was that the expert users would know what they meant, but on reflection I could have done more to make the system more usable
 
+[All projects →](/portfolio/)

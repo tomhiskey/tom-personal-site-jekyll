@@ -10,7 +10,8 @@ layout: project
 ### Problem
 
 Until 2019, Farewill did one thing – wills. The company knew there was more it could do to change the way the world deals with death. It identified an opportunity to launch its second service – probate. 
-How can we launch a probate service that changes the way people deal with death?
+
+*How can we launch a probate service that changes the way people deal with death?*
 
 ### Project
 
@@ -76,3 +77,4 @@ I’m hugely proud of the team and the process we went through – we could have
 - Our goal was crystal clear (“launch a unique, customer-centric probate service by March 2019” ), and it was fun working towards it at pace as part of a small, focused team.
 - I like to think designers and researchers can bring a lot of value to new propositions
 
+[Next project →](/portfolio/will-guidance-farewill)

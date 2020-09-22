@@ -60,3 +60,4 @@ We didn't attempt to measure the success of the project objectively, but we rece
 - An early draft had the title “You’re nearly finished - here’s how to make your will legal”. Our CEO Dan pointed out that “You’re nearly finished” is an ambiguous phrase where death is concerned. Once he said it, it felt so obvious. It’s that sort of reason I never design in isolation. 
 - There’s beauty in clear, usable content
 
+[Next project →](/portfolio/insights-business-partners-kct)

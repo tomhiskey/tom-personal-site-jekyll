@@ -9,7 +9,7 @@ I'll be blogging [over at Medium](https://medium.com/@tomhiskey) from now on.
 
 Here are some older posts for posterity...
 
-### [I rebuilt my website the hard way – again](/blog/==9/)
+### [I rebuilt my website the hard way – again](/blog/i-rebuilt-my-website-the-hard-way-again/)
 *TBC.* TBC...
 
 ### [Yearnotes - 2019](/blog/yearnotes-2019/)
@@ -22,4 +22,4 @@ Here are some older posts for posterity...
 *31 Dec 2019.* I used Eleventy to rebuild my website, and had a bit a headache getting it deployed...
 
 
-[Older posts](/blog/blog-archive)
+[All posts (24) →](/blog/blog-archive)

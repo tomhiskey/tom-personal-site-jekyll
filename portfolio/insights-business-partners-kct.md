@@ -100,3 +100,5 @@ Overall, there was 32% increase in satisfaction from users.
 - I didn’t realise it at the time, but when I joined KCT I wasn’t mindful enough that everyone who’d worked on the existing system did the best work possible with the time and resources they had at the time. It’s one of my career regrets.
 - Contextual research is fun
 - My colleague Clare Ridd at Farewill would be appalled to know I used a 7 point scale in my benchmarking survey
+
+[Next project →](/portfolio/internal-case-management-kct)

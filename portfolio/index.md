@@ -1,11 +1,11 @@
 ---
 title: Work
-subtitle: Design projects and management
+subtitle: Mostly design projects, a bit about management
 layout: page
 ---
 
 ### [Taking care over internal tools @ Farewill](/portfolio/taking-care-internal-tools-farewill)
-Complex problems · Testing · Collaboration · Communication · Detail · Project management (2020)
+Complex problems · Testing · Collaboration · Communication · Leading projects (2020)
 
 ### [Being a manager @ Farewill](/portfolio/being-a-manager)
 Empathy · Support · Progression · Autonomy (ongoing)
@@ -14,7 +14,7 @@ Empathy · Support · Progression · Autonomy (ongoing)
 Complex requirements · UI · Usability · Collaboration · Internal tools (2020)
 
 ### [Cremation forms @ Farewill](/portfolio/cremation-forms-farewill)
-Service design · Research · Observation · Internal tools (2020)
+Service design · Research · Observation (2020)
 
 ### [Launching a probate service @ Farewill](/portfolio/launching-probate-service-farewill)
 User profiling · Discovery · Service design · B2C · Collaboration (2019)
