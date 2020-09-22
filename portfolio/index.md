@@ -26,4 +26,4 @@ Content design (2018)
 Contextual research · Usability · UI · Measuring impact (2015)
 
 ### [Internal case management @ Kings Court Trust](/portfolio/internal-case-management-kct)
-Internal tools · user testing · information architecture · collaboration (2018) 
+Internal tools · User testing · Information architecture · Collaboration (2018) 

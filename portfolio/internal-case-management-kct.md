@@ -1,6 +1,6 @@
 ---
 title: Internal case management @ Kings Court Trust
-subtitle: Internal tools · user testing · information architecture · collaboration (2018) 
+subtitle: Internal tools · User testing · Information architecture · Collaboration (2018)  
 date: '2020-05-10'
 thumb_image: 
 image: images/kct-moose-new-assets.jpg 
