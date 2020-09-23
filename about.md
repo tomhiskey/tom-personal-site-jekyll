@@ -9,7 +9,7 @@ layout: page
 
 – *360 feedback from a colleague, May 2020*
 
-I'm an in-house lead product designer and manager. As a designer I try to join the dots between problems and outcomes, openly and collaboratively. As a manager, I love helping others to be the best they can be.
+I'm an in-house lead product designer and manager at [Farewill](https://farewill.com/). As a designer I try to join the dots between problems and outcomes, openly and collaboratively. As a manager, I love helping others to be the best they can be.
 
 As well as my [user manual (below)](#user-manual), you might like to read my DiSC profile (coming soon!), find out [what's included with me](/what-is-included), or read about my [Myers Briggs personality](https://www.16personalities.com/enfj-personality).
 
