@@ -1,16 +1,14 @@
 ---
 title: Blog 
-subtitle: ''
+subtitle: 'Some posts for posterity'
 hide_title: false
 layout: page
 ---
 
-I'll be blogging [over at Medium](https://medium.com/@tomhiskey) from now on. 
-
-Here are some older posts for posterity...
+[Head over to Medium](https://medium.com/@tomhiskey) for all future posts. 
 
 ### [I rebuilt my website the hard way – again](/blog/i-rebuilt-my-website-the-hard-way-again/)
-*TBC.* TBC...
+*27 Sep 2020.* Having rebuilt my website the hard way last year, I decided to rebuild my website the hard way, again... 
 
 ### [Yearnotes - 2019](/blog/yearnotes-2019/)
 *5 Jan 2020.* A few 2019 highlights. I feel like I learned more in 2019 than the previous 2-3 years combined, which suggests...

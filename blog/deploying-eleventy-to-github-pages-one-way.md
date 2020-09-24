@@ -6,6 +6,8 @@ date: '2019-12-31'
 layout: post
 ---
 
+*Disclaimer: this is definitely not the best way of doing things. I really don't know what I'm doing. But I hope it's still helpful to you in some way.*
+
 I used Eleventy to rebuild my personal website, and had a bit a headache getting it deployed to GitHub Pages. 
 
 There's not much guidance online. The best seems to be the article that [Jonathan Snook has written about deploying an 11ty site to GitHub Pages](https://snook.ca/archives/servers/deploying-11ty-to-gh-pages). But rightly or wrongly I felt a little daunted about using Travis CI for the build, and I believe I'd have to pay for it after a while. So I thought I'd try and cobble together something different.

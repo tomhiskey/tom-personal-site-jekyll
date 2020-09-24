@@ -13,3 +13,5 @@ tomhiskey@gmail.com
 
 [Twitter](https://twitter.com/tomhiskey)
 
+[Medium](https://medium.com/@tomhiskey) 
+

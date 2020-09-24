@@ -9,9 +9,11 @@ layout: page
 
 – *360 feedback from a colleague, May 2020*
 
-I'm an in-house lead product designer and manager at fast-growing seres B startup [Farewill](https://farewill.com/). As a designer I try to join the dots between complex problems and outcomes, openly and collaboratively. As a manager, I love helping others to be the best they can be.
+I'm an in-house lead product designer at fast-growing Series B startup [Farewill](https://farewill.com/). As a designer, I try to join the dots between complex problems and outcomes, openly and collaboratively. 
 
-As well as my [user manual (below)](#user-manual), you might like to read my DiSC profile (coming soon!), find out [what's included with me](/what-is-included), or read about my [Myers Briggs personality](https://www.16personalities.com/enfj-personality).
+As a manager and senior member of the design team, I love helping others to be the best they can be.
+
+I like to be open. As well as my [user manual (below)](#user-manual), you might like to read my DiSC profile (coming soon!), find out [what's included with me](/what-is-included), or read about my [Myers Briggs personality](https://www.16personalities.com/enfj-personality).
 
 ![Me at a design crit](/images/Farewill-design-crit-arrow.png "Me at a design crit")
 

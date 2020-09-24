@@ -1,7 +1,7 @@
 ---
 title: I rebuilt my website the hard way... again
 excerpt: >- 
-    Something
+    Having rebuilt my website the hard way last year, I decided to rebuild my website the hard way, again...
 date: '2020-09-27'
 layout: post
 ---
