@@ -74,6 +74,5 @@ I’m hugely proud of the team and the process we went through – we could have
 - The focus group video has become required viewing for anyone joining Farewill’s probate team – I’m so pleased we place such high value on empathy and first-hand research
 - We created a fairly lengthy PDF form for our clients to complete. We knew it wasn’t perfect, and that feeling was validated by customer feedback. In hindsight, we should have kept it simple and gathered all information by phone from the start. 
 - Our goal was crystal clear (“launch a unique, customer-centric probate service by March 2019” ), and it was fun working towards it at pace as part of a small, focused team.
-- I like to think designers and researchers can bring a lot of value to new propositions
 
 [Next project →](/portfolio/will-guidance-farewill)
