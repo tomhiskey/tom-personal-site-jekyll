@@ -1,17 +1,17 @@
 ---
 title: Work
-subtitle: Mostly design projects, a bit about management
+subtitle: Design projects and a bit about management
 layout: page
 ---
 
 ### [Taking care over internal tools @ Farewill](/portfolio/taking-care-internal-tools-farewill)
 Complex problems · Testing · Collaboration · Communication · Leading projects (2020)
 
-### [Being a manager @ Farewill](/portfolio/being-a-manager)
-Empathy · Support · Progression · Autonomy (ongoing)
-
 ### [Gathering info about a person who’s died @ Farewill](/portfolio/gathering-info-person-died-farewill)
 Complex requirements · UI · Usability · Collaboration · Internal tools (2020)
+
+### [Being a manager @ Farewill](/portfolio/being-a-manager)
+Empathy · Support · Progression · Autonomy (ongoing)
 
 ### [Cremation forms @ Farewill](/portfolio/cremation-forms-farewill)
 Service design · Research · Observation (2020)

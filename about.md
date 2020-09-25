@@ -9,7 +9,7 @@ layout: page
 
 – *360 feedback from a colleague, May 2020*
 
-I'm an in-house lead product designer at fast-growing Series B startup [Farewill](https://farewill.com/). As a designer, I try to join the dots between complex problems and outcomes, openly and collaboratively. 
+I'm an in-house Lead Product Designer at fast-growing Series B startup [Farewill](https://farewill.com/). As a designer, I try to join the dots between complex problems and outcomes, openly and collaboratively. 
 
 As a manager and senior member of the design team, I love helping others to be the best they can be.
 
@@ -60,24 +60,23 @@ I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbar
 * Focused, purposeful meetings
 
 #### Things I struggle with
-* People who aren't culturally aligned with me - I find it tiring and I get defensive (which is something I dislike about myself)
 * Loud voices and dictators
 * People who don't value understanding the problem, defining needs or doing research
 * Gossip and politics
 
 #### Things I love
-* Leading, managing and hiring - it's wonderful helping others be their best selves at work
 * Input from others in the design process - I'm not egotistical or precious and I see my role as getting the best outcomes, which means it doesn't have to be me coming up with all the ideas
 * Working as part of a multi-talented, creative, engaged team 
 * Empathetic, emotionally-intelligent people who put customers first
 * Learning and new experiences
+* Leading, managing and hiring - it's wonderful helping others be their best selves at work
 
 #### Other things to know about me
 * Work-life balance is vital - I've read too many tales from regretful, work-obsessed old people. I'm at my most productive when everything's in balance
 * I suffer from imposter syndrome which I use as motivation to learn
 * I prefer solving user problems than selling stuff
-* I'm happiest when I [bring my whole self to work](https://www.youtube.com/watch?v=bd2WKQWG_Dg) - i.e. I can be myself
-* I think I'm on the border between extrovert and introvert
+* I'm happiest when I [bring my whole self to work](https://www.youtube.com/watch?v=bd2WKQWG_Dg)
+* I see myself as being on the border between extrovert and introvert
 
 ***
 

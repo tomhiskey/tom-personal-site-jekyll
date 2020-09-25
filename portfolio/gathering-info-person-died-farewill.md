@@ -119,4 +119,4 @@ Feedback from colleagues included...
 - The complex legal and financial requirements were challenging – some of it got very technical! Luckily we have very engaged specialist users who are able to explain things clearly. 
 - We didn’t have a way to objectively measure the success of the project, mainly because at the time we were lacking clear data on how efficiently we ran probate cases. 
 
-[Next project →](/portfolio/cremation-forms-farewill)
+[Next project →](/portfolio/being-a-manager)

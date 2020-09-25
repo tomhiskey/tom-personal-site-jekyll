@@ -76,4 +76,4 @@ As of September 2020 the project is still ongoing – I’ll update this bit soo
 
 *I have one reflection already – that no amount of user testing with wireframes can replicate running real life cases through an active system.*
 
-[Next project →](/portfolio/being-a-manager)
+[Next project →](/portfolio/gathering-info-person-died-farewill)

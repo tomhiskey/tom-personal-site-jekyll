@@ -9,8 +9,7 @@ layout: project
 
 ### Role
 
-Being a manager is as important to me as being a design contributor, so I’m including this page alongside my projects.
-I’ve been a line manager since 2019. I find it incredibly rewarding. 
+I enjoy being a manager, so I’m including this page alongside my projects. I’ve been a line manager since 2019. I find it incredibly rewarding. 
 
 For me, management is about helping others be their best selves. 
 
@@ -19,8 +18,6 @@ For creative people, that means helping them achieve autonomy, mastery and purpo
 I’m relatively new to management and have so much to learn. I get a lot of confidence from this sort of feedback from one of my reports...
 
 >Tom is an incredibly good manager. He really gets the balance right between being supportive and challenging. I always feel like Tom is paying attention to my work and that puts me under the right kind of pressure to push myself to do my best work. He has earned both my trust and respect by being both positive when things are going well and not afraid to say  things like “I don’t think that workshop quite worked”. I find this very relaxing as it gives me the confidence that Tom would tell me there was a problem straight away if there was one.
-
-> High five @TomHiskey for being the best manager possible since I joined Farewill. There are no high fives high enough to say how much I appreciate you
 
 ### Reflections
 - I heard Indi Young say once that listening is a superpower. She’s right, and I try to listen actively, although I can still get much better at it. 
