@@ -10,6 +10,7 @@ layout: project
 ### Problem
 
 Farewill’s Cremation team dealt with a big increase in cases in spring 2020. The team was stretched, which meant more stress, pressure and challenges communicating with customers and partners.  
+
 The Dealing With Death product team was tasked with identifying the pain points in our cremation operations, and helping to address them. 
 
 ### Project
