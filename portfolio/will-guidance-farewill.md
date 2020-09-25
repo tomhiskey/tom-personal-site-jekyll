@@ -13,7 +13,7 @@ We’d had some feedback from customers that the guidance pages attached to our 
 
 ### Project
 
-As one of my first design projects at Farewill, I took on the challenge of clarifying the instructions and signature pages of our will. It was a relatively small project with a big potential impact – well designed content could make the difference between someone signing their will correctly or not. It took about a week.
+As one of my first design projects at Farewill, I took on the challenge of clarifying the instructions and signature pages of our will. It was a small project with a big potential impact – well designed content could make the difference between someone signing their will correctly or not. It took about a week.
 
 ### Team
 
@@ -51,13 +51,13 @@ Above: updated designs
 
 ...feedback from a customer
 
-We didn't attempt to measure the success of the project objectively, but we received glowing feedback from customers about the new instructions page.
+At the time, we didn't measure the success of the project quantitatively. But we received glowing feedback from customers about the clarity of the new instructions page, and future research has helped other teams improve the page further.
 
 
 ### Reflections
 
 - It’s satisfying to work occasionally on small, self-contained design challenges
 - An early draft had the title “You’re nearly finished - here’s how to make your will legal”. Our CEO Dan pointed out that “You’re nearly finished” is an ambiguous phrase where death is concerned. Once he said it, it felt so obvious. It’s that sort of reason I never design in isolation. 
-- There’s beauty in clear, usable content
+- I'm not sure if I achieved it, but I think there can be beauty in clear, usable content
 
 [Next project →](/portfolio/insights-business-partners-kct)

@@ -61,12 +61,11 @@ As the project progressed, we worked through the considerations of how the servi
 
 ![Excerpt from service blueprint](/images/launching-probate-service-blueprint.png "Excerpt from service blueprint")
 
-The research fed directly into the service. As an example – we knew how often people have a feeling of confusion and being out of control when handing over probate work to a professional. From the start, we offered all customers a ..
-I was also responsible for the content and visuals of our probate marketing website. 
+The research fed directly into the service. As an example – we knew how often people have a feeling of confusion and being out of control when handing over probate work to a professional.
 
 ### Outcomes
 
-We successfully launched our new probate service on schedule, on 5 March 2019. At the time, I blogged about it here. 
+We successfully launched our new probate service on schedule, on 5 March 2019. At the time, [I blogged about it here](https://medium.com/farewill/how-and-why-we-built-our-new-probate-service-on-customer-needs-fc78d6f5b228). 
 
 I’m hugely proud of the team and the process we went through – we could have launched a probate service faster, but we wanted to do it right.
 

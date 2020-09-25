@@ -13,15 +13,11 @@ Kings Court Trust handles over a thousand estate administration cases a year. Ou
 
 ### Project
 
-A vision for contemporary, business-focused case management through extensive user research, wireframing, analysis and iteration.
-
-With methods such as card-sorting, user journeys, user interviews and testing, I led regular improvements to a legacy case management system.
-
-An outdated UI should not be an obstacle to introducing new features, efficiency gains and other iterative improvements.
+I led a collaborative effort to develop a vision for a user-centric, efficient and delightful case management system.
 
 ### Team
 
-Me – Sole product designer and project lead, working as part of an in-house cross-functional product team.
+Me – Sole product designer and project lead, working as part of an in-house cross-functional product team and with stakeholders and users across the business.
 
 ### Process
 
@@ -32,6 +28,7 @@ I ran a kickoff workshop. The goals were to uncover and prioritise problems acco
 **User journeys**
 
 I produced user journeys to help visualise the workflows of case management users. They helped identify inefficiencies and ways to shorten and improve the journeys, particularly for priority tasks. 
+
 Unpicking the many and varied workflows of over 100 staff took time, patience, and lots of pen on paper. I use A3 card and coloured pens to produce fast visualisations and paper prototypes, with help and feedback from users and stakeholders across the company.
 
 ![Excerpt from user journeys](/images/kct-moose-user-journey.png "Excerpt from user journeys")
@@ -62,17 +59,13 @@ In card-sorting workshops, I ask users to identify and group pages or features a
 
 **Navigation**
 
-Based on card-sorting, user interviews and user testing, I refined the navigation of a legacy case management system to provide a more usable, streamlined experience, particularly for new users.
+Based on card-sorting, user interviews and user testing, I mocked up ideas for the navigation to provide a more usable, streamlined experience, particularly for new users.
  
 ![Mockup of new navigation](/images/kct-moose-new-navigation.jpg "Mockup of new navigation")
-
-**In-context prototyping**
-
-I usually prefer wireframes for user testing, but for tests on a legacy case management system I produced prototypes built around the existing UI. In this scenario, it was helpful for users to interact with proposals in a familiar environment.
  
 **UI design**
 
-Following the research phase I conducted an extensive, iterative design process. With continuing input from users, I produced  wireframes and, subsequently, an advanced interactive prototype.
+Following the research phase I conducted an extensive, iterative design process. With continuing input from users, I produced wireframes and then an interactive prototype.
 
 ![Hi-fi mockups](/images/kct-moose-new-summary.jpg "Hi-fi mockups")
 

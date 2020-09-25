@@ -11,7 +11,7 @@ layout: project
 
 Kings Court Trust provides legal services for families after the death. Most of its clients come from referrals from business partners such as will-writers. It has a web app called Insight to help partners make referrals and track cases. But in 2014, Insight was the cause of a lot of negative feedback. When I joined the company in early 2015, I was asked to help.
 
-Below - in early 2015, Insight was receive lots of negative feedback. 
+Below - Insight in early 2015
 
 ![Screenshots of the old system](/images/kct-partner-insight-old-1.png "Screenshots of the old system")
 
@@ -19,7 +19,8 @@ Below - in early 2015, Insight was receive lots of negative feedback.
 
 ### Project
 The broad goal of the project was to identify problems with Insight and design and launch an improved version, with improved satisfaction and engagement.
-How might we more easily help partners make referrals and track cases through Insight?
+
+*How might we more easily help partners make referrals and track cases through Insight?*
 
 
 ### Team
@@ -48,7 +49,7 @@ As part of the discovery phase I profiled users based on evidence from surveys, 
 
 ![One of our personas](/images/kct-partner-insight-persona.png "One of our personas")
 
-I was also able to identify users’ “red routes” – their top priorities while using Insight.
+I also helped to identify users’ “red routes” – their top priorities while using Insight. They were partly based on the quantitative research I'd done (a survey of users), partly on the contextual research.
 
 **Analysis of navigation**
 

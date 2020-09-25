@@ -17,9 +17,7 @@ Farewill’s probate service was scaling rapidly. We needed to help our team man
 
 ### Project
 
-We called this our ‘What happens next?’ project. It lasted about 4 months. It was a big project – essentially, building a probate case management system, more or less from scratch.
-
-We measured the success of the project through quantitative operational efficiency improvements and qualitative benchmarking surveys. 
+We called this our ‘What happens next?’ project. It lasted about 4 months. It was a big project – essentially, building a probate case management system, more or less from scratch. 
 
 ### Team
 Me – sole product designer and project lead, working as part of an in-house cross-functional product team including:
@@ -33,7 +31,7 @@ Our researcher Clare conducted some wonderfully insightful research during our d
 
 **Kick-off**
 
-I ran a kick-off workshop. I asked our illustrator Louis to draw a mountain for an interactive element of the session – it felt like a nice way to help engagement. 
+I ran a kick-off workshop. Our wonderful illustrator / designer Louis drew a mountain for an interactive element of the session. 
 
 ![Kick-off workshop screenshot](/images/what-happens-next-kick-off.png "Kick-off workshop screenshot")
 
