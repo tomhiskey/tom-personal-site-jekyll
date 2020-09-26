@@ -3,82 +3,45 @@ title: About Me
 subtitle: 
 image: 
 layout: page
+accordion: 
+  - title: Conditions I like to work in
+    content: In a team, collaborating. I need to be free to bring my whole self to work – I can't and won't put on a show. I've worked mainly remotely for many years and have a great home office setup. It suits me, but I need a mix – perhaps a day or two in the office each week, pandemics permitting. I like to be positive I'm told I'm always smiling at work – although I'm sure that's not true, and it's helpful to me to be honest if I'm feeling down. 
+  - title: How I like to receive feedback
+    content: Regularly, openly and honestly – the more we can normalise this the better. I'm hugely grateful to anyone who helps me improve through feedback (I find the [COIN framework](https://www.mindtools.com/pages/article/COIN.htm) helps).
+  - title: The times and hours I like to work
+    content: I'm not at my best before 10am or after 5pm – I prefer to avoid meetings during these times. I keep regular hours and very rarely work past 6pm, when I eat dinner with my family. I never send or read work messages out of hours, and I discourage others who do. There's nothing more important to my happiness and productivity than a good work-life balance.
+  - title: How to communicate with me
+    content: Ideally, politely – I'm a sucker for a 'how are you?', a please and a thanks. But I'm respectful of other peoples' communication styles, so please be yourself. I don't like Slack for anything other than simple, short messages – for anything complicated or at risk of being misconstrued, I much prefer to chat in person. If I'm stressed or feeling defensive, I try to have a good night's sleep before responding. 
+  - title: Things I struggle with
+    content: Swoops and poops. Loudness. People who don't listen actively. Egos. 
+  - title: Things I love
+    content: Other teammates contributing to the design process – it's all about outcomes, not egos. Being part of a creative, engaged team. Learning. New experiences. Dad jokes. Puns. 
+  - title: Included with me
+    content: Communication · Collaboration · Empathy · Kindness · Research · Usability · UI · Content design · Service design · Openness · Leading projects · Contributing to culture
+  - title: Not included with me
+    content: E-commerce · Sales · Branding · Native apps · Haptics · Illustration · Animation · Coding
+  - title: DiSC profile
+    content: Coming soon
+  - title: Myers Briggs personality
+    content: I consider myself on the border of extrovert and introvert, but my Myers Briggs personality is [ENFJ](https://www.16personalities.com/enfj-personality)
 ---
 
 > Curiosity, positivity, kindness, and a 'start with why' approach! Also some dope designs.
 
 – *360 feedback from a colleague, May 2020*
 
-I'm an in-house Lead Product Designer at fast-growing Series B startup [Farewill](https://farewill.com/). As a designer, I try to join the dots between complex problems and outcomes, openly and collaboratively. 
+I'm an in-house lead product designer at fast-growing Series B startup [Farewill](https://farewill.com/). I like to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. 
 
-As a manager and senior member of the design team, I love helping others to be the best they can be.
-
-I like to be open. As well as my [user manual (below)](#user-manual), you might like to read my DiSC profile (coming soon!), find out [what's included with me](/what-is-included), or read about my [Myers Briggs personality](https://www.16personalities.com/enfj-personality).
+As a manager and senior member of the design team I try to listen, support and help others be the best they can be. 
 
 ![Me at a design crit](/images/Farewill-design-crit-arrow.png "Me at a design crit")
 
-## <a name="user-manual"></a>My user manual
+## <a name="user-manual"></a>User manual
 
-It can be hard to get to know colleagues, but it's important because it helps us work together better and feel more comfortable and engaged. I'm hoping this user manual (aka a [manual of me](https://manualofme.co/)) will help my colleagues get to know me.
+I've been inspired to write a user manual (aka a [manual of me](https://manualofme.co/)) by the likes of [Dan](https://medium.com/@dasbarrett/a-user-manual-for-dan-d0a285874f72), [Cassie](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) and [Richard](https://medium.com/@mcleanonline/helping-other-people-get-to-know-you-aa2dbff5c0f8). I hope by being open I'll help others empathise with me, so we can work together better.
 
-I've been inspired to write one by the likes of [Dan](https://medium.com/@dasbarrett/a-user-manual-for-dan-d0a285874f72), [Cassie](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) and [Richard](https://medium.com/@mcleanonline/helping-other-people-get-to-know-you-aa2dbff5c0f8). 
+{% include accordion.html %}
 
-#### Conditions I like to work in
-* A mix of office and home ~~- currently it's 2 days office, 3 days home, which works well~~ 
-* A clean, tidy environment
-* Regular, short breaks - a wander with a coffee helps me clear my mind
-* Being around kind, friendly, thoughtful, interesting people
-* I like to be positive - I'm told I'm always smiling at work! But if I'm not feeling great I'll be honest about it.
-
-#### The times / hours I like to work
-
-* Usually I start and finish bang on time
-* But I like a degree of flexibility - I'll sometimes pop out for a haircut or finish a few minutes early for dinner
-* I'm not at my best before 10am or after 5pm - I prefer to avoid meetings during these times
-* I never read or respond to messages when I'm not working (and I dislike it when others do)
-
-#### The best ways to communicate with me
-* As a remote worker, the main thing is simply that we _do_ communicate, so I like to make it as easy as possible
-* Slack is usually best for anything short and sweet
-* In person or webcam is better for anything longer or in need of explanation
-* I'm happy to have impromptu conversations - interrupt me any time
-* I don't like rambling chats - in a work context, I prefer keeping things to the point (that said, I'm happy to be a sounding board)
-* I like agreeing outcomes and actions
-
-#### The ways I like to receive feedback
-* Regularly, openly and honestly - I firmly believe the more a team normalises regular, open feedback the better
-* I value negative and positive feedback equally
-* Please don't wait to be asked - give me feedback whenever you have it, I value it greatly
-
-#### Things I need
-* Purpose and meaningful problems to solve
-* Trust and responsibility
-* Collaboration - I’m a firm believer that we get better outcomes by bringing others along on the journey
-* Frankness, openness and honest criticism
-* Kindness, praise and encouragement
-* Goals
-* Focused, purposeful meetings
-
-#### Things I struggle with
-* Loud voices and dictators
-* People who don't value understanding the problem, defining needs or doing research
-* Gossip and politics
-
-#### Things I love
-* Input from others in the design process - I'm not egotistical or precious and I see my role as getting the best outcomes, which means it doesn't have to be me coming up with all the ideas
-* Working as part of a multi-talented, creative, engaged team 
-* Empathetic, emotionally-intelligent people who put customers first
-* Learning and new experiences
-* Leading, managing and hiring - it's wonderful helping others be their best selves at work
-
-#### Other things to know about me
-* Work-life balance is vital - I've read too many tales from regretful, work-obsessed old people. I'm at my most productive when everything's in balance
-* I suffer from imposter syndrome which I use as motivation to learn
-* I prefer solving user problems than selling stuff
-* I'm happiest when I [bring my whole self to work](https://www.youtube.com/watch?v=bd2WKQWG_Dg)
-* I see myself as being on the border between extrovert and introvert
-
-***
 
 > I’m frequently in awe at how Tom can take in what seems to be something incredibly complex or vague and loosely defined and produce out the other side a really clear and well understood model, diagram, design or kick-off document
 

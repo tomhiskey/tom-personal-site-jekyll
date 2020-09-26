@@ -166,6 +166,10 @@ ol {
   padding: 0 0 0 1.33333em;
 }
 
+ul.jekyllcodex_accordion { /* added */
+  padding-left: 0px !important;
+ }
+
 li > ul,
 li > ol {
   margin-bottom: 0;
