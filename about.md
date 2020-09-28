@@ -19,7 +19,7 @@ accordion:
   - title: Included with me
     content: Communication · Collaboration · Empathy · Kindness · Research · Usability · UI · Content design · Service design · Openness · Leading projects · Contributing to culture
   - title: Not included with me
-    content: E-commerce · Sales · Branding · Native apps · Haptics · Illustration · Animation · Coding
+    content: E-commerce · Sales · Branding · Native apps · Haptics · Pixel perfect interactions · Illustration · Animation · Coding
   - title: DiSC profile
     content: Coming soon
   - title: Myers Briggs personality
