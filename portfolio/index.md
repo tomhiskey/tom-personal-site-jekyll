@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: Overviews of design projects
+subtitle: 
 layout: page
 ---
 
