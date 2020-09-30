@@ -5,4 +5,4 @@ subtitle: I live in York and work for London-based startup Farewill. We're chang
 layout: page
 ---
 
-![alt text](/images/tom-sticky-notes.jpg "Logo Title Text 1")
+![Tom Hiskey](/images/tom-sticky-notes.jpg "Tom Hiskey")
