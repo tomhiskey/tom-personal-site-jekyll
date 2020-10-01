@@ -34,7 +34,7 @@ I'm an in-house lead product designer at fast-growing Series B startup [Farewill
 
 As a manager and senior member of the design team I try to listen, support and help others be the best they can be. 
 
-![Me at a design crit](/images/Farewill-design-crit-arrow.png "Me at a design crit")
+![Tom Hiskey at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.png "Me at a design crit")
 
 ## <a name="user-manual"></a>User manual
 
