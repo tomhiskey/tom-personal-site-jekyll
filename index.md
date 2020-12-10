@@ -1,5 +1,5 @@
 ---
-title: Hello there! I'm a senior digital product designer
+title: Hello there! I'm a digital product designer and manager
 hide_title: false
 subtitle: I live in York and work for London-based startup Farewill. We're changing the way the world deals with death.
 layout: page
