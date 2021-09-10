@@ -2,7 +2,7 @@
 title: Gathering information about a person who's died @ Farewill
 subtitle: Complex requirements · UI · Usability · Collaboration · Internal tools (2020)
 date: '2020-05-10'
-thumb_image: 
+thumb_image: images/fact-find-thumbnail.png 
 image: images/Fact-find-crit-sketch-later.gif 
 layout: project
 ---
@@ -119,4 +119,4 @@ Feedback from colleagues included...
 - The complex legal and financial requirements were challenging – some of it got very technical! Luckily we have very engaged specialist users who are able to explain things clearly. 
 - We didn’t have a way to objectively measure the success of the project, mainly because at the time we were lacking clear data on how efficiently we ran probate cases. 
 
-[Next project →](/portfolio/being-a-manager)
+[Next project →](/portfolio/cremation-forms-farewill)

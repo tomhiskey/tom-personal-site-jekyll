@@ -5,7 +5,11 @@ hide_title: false
 layout: page
 ---
 
-I'll be writing [at Medium](https://medium.com/@tomhiskey) from now on. Here are all ramblings up to Sep 2020.
+Please [head over to Medium](https://medium.com/@tomhiskey) for all my latest words.
+
+Also, here's [How we made personas](https://farewill.com/blog/how-we-made-personas-to-help-us-empathise-with-customers) – a piece I wrote on the Farewill blog, July 2021.
+
+Some other ramblings up to Sep 2020...
 
 ### [I rebuilt my website the hard way – again](/blog/i-rebuilt-my-website-the-hard-way-again/)
 *27 Sep 2020.* Having rebuilt my website the hard way last year, I decided to rebuild my website the hard way, again... 

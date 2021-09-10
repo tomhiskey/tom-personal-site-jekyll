@@ -12,6 +12,10 @@ layout: body
     {% endif %}
   </header><!--.page-header -->
 
+      <!-- added --> <div class="post-content inner-sm">
+        {{ content }}
+      </div> <!-- end added -->
+
   <div class="portfolio-feed layout-{{ page.layout_style }}">
     {% assign display_projects = '/portfolio' | get_pages | sort: 'date' | reverse %}
     {% for post in display_projects %}

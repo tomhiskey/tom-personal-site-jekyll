@@ -5,44 +5,38 @@ image:
 layout: page
 accordion: 
   - title: Conditions I like to work in
-    content: In a team, collaborating. I need to be free to bring my whole self to work – I can't and won't put on a show. I've worked mainly remotely for many years and have a great home office setup. It suits me, but I need a mix – perhaps a day or two in the office each week, pandemics permitting. I like to be positive I'm told I'm always smiling at work – although I'm sure that's not true, and it's helpful to me to be honest if I'm feeling down. 
+    content: In a team, collaborating with thoughtful, supportive, talented people. I like working remotely, but also get a buzz from the office environment and in-person coffees a few days every month. I like to be positive I've been told I'm always smiling at work – although I'm sure that's not true, and it's helpful to me to be honest if I'm feeling down. 
   - title: How I like to receive feedback
-    content: Regularly, openly and honestly – the more we can normalise this the better. I'm hugely grateful to anyone who helps me improve through feedback (I find the [COIN framework](https://www.mindtools.com/pages/article/COIN.htm) helps).
+    content: Regularly, openly and honestly please! The more we can normalise this the better. I find the [COIN framework](https://www.mindtools.com/pages/article/COIN.htm) helpful.
   - title: The times and hours I like to work
-    content: I'm not at my best before 10am or after 5pm – I prefer to avoid meetings during these times. I keep regular hours and very rarely work past 6pm, when I eat dinner with my family. I never send or read work messages out of hours, and I discourage others who do. There's nothing more important to my happiness and productivity than a good work-life balance.
+    content: I work from 9am to 6pm when I have dinner with my family. All work devices etc are off beyond these times. I encourage others to do the same and I think leadership has an example to set, to help people achieve a good work-life balance and not burn out.
   - title: How to communicate with me
-    content: Ideally, politely – I'm a sucker for a 'how are you?', a please and a thanks. But I'm respectful of other peoples' communication styles, so please be yourself. I don't like Slack for anything other than simple, short messages – for anything complicated or at risk of being misconstrued, I much prefer to chat in person. If I'm stressed or feeling defensive, I try to have a good night's sleep before responding. 
+    content: Please be yourself – I appreciate that we all have different communication styles. But I'm also a sucker for a polite 'how are you?', please, thank you and light-hearted emojis. Slack's fine for simple, short messages, but for anything deeper or complicated I much prefer to hop on Zoom. I may prefer to have a night's sleep before responding to something tricky. 
   - title: Things I struggle with
-    content: Swoops and poops. Loudness. People who don't listen actively. Egos. 
+    content: My imposter syndrome, which often makes me think that everyone else knows better. I can get defensive during disagreements (did you know that's [hard-wired into our human brains?](https://podcasts.apple.com/gb/podcast/conflicted-is-there-a-route-to-better-disagreement-at-work/id1190000968?i=1000507995326)), but much less so than I used to be, I think.
   - title: Things I love
-    content: Other teammates contributing to the design process – it's all about outcomes, not egos. Being part of a creative, engaged team. Learning. New experiences. Dad jokes. Puns. 
-  - title: Included with me
-    content: Communication · Collaboration · Empathy · Kindness · Research · Usability · UI · Content design · Service design · Openness · Leading projects · Contributing to culture
-  - title: Not included with me
-    content: E-commerce · Sales · Branding · Native apps · Haptics · Pixel perfect interactions · Illustration · Animation · Coding
-  - title: DiSC profile
-    content: Coming soon
+    content: Awkward silences (my colleague Helena calls me the king of awkward silences) – I think they're such a helpful way to get other people to speak, particularly quieter members of a group. I also love other teammates contributing to the design process, whatever their role. And dad jokes.
+  - title: I'm not great at...
+    content: E-commerce · Sales · Branding · Native apps · Pixel perfect interactions · Illustration · Animation · Coding
   - title: Myers Briggs personality
-    content: I consider myself on the border of extrovert and introvert, but my Myers Briggs personality is [ENFJ](https://www.16personalities.com/enfj-personality)
+    content: I'm [ENFJ - a protagonist](https://www.16personalities.com/enfj-personality), although I reckon I'm on the border of extrovert and introvert. 
 ---
 
 > Curiosity, positivity, kindness, and a 'start with why' approach! Also some dope designs.
 
 – *360 feedback from a colleague, May 2020*
 
-I'm an in-house lead product designer at fast-growing Series B startup [Farewill](https://farewill.com/). I like to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. 
+I'm a product design manager at [Farewill](https://farewill.com/), in London. I'm in the office a few days a month. The rest of the time I work remotely from home in York.
 
-As a manager and senior member of the design team I try to listen, support and help others be the best they can be. 
+My pronouns are he/him. 
+![Tom at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.png "Me at a design crit")
 
-![Tom Hiskey at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.png "Me at a design crit")
+## <a name="user-manual"></a>My user manual
 
-## <a name="user-manual"></a>User manual
-
-I've been inspired to write a user manual (aka a [manual of me](https://manualofme.co/)) by the likes of [Dan](https://medium.com/@dasbarrett/a-user-manual-for-dan-d0a285874f72), [Cassie](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) and [Richard](https://medium.com/@mcleanonline/helping-other-people-get-to-know-you-aa2dbff5c0f8). I hope by being open I'll help others empathise with me, so we can work together better.
+Aka a [manual of me](https://manualofme.co/), to help teammates understand me a little better. Inspired by the likes of [Dan](https://medium.com/@dasbarrett/a-user-manual-for-dan-d0a285874f72), [Cassie](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) and [Richard](https://medium.com/@mcleanonline/helping-other-people-get-to-know-you-aa2dbff5c0f8).
 
 {% include accordion.html %}
 
+Away from work, I'm learning to play jazz piano – I recently had my first piano lesson in 25 years. I've run a marathon, laminated a kitchen worktop and built a child's play kitchen from wood. One day I'd like to build a sustainable house with [cross-laminated timber](https://www.google.com/search?q=clt+house&sxsrf=AOaemvISDNEKLFQs9IjXpTWUBWsZQlGwvQ:1631281736242&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi33aqDxvTyAhVNSEEAHQ_gD8QQ_AUoAXoECAEQAw&biw=1904&bih=807).
 
-> I’m frequently in awe at how Tom can take in what seems to be something incredibly complex or vague and loosely defined and produce out the other side a really clear and well understood model, diagram, design or kick-off document
-
-– *360 feedback from a colleague, May 2020*
+![Tom making bread with daughter in Morocco](/images/tom-morocco.jpeg "Making bread with my daughter in Mororcco")

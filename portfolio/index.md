@@ -1,29 +1,42 @@
 ---
 title: Work
 subtitle: 
-layout: page
+layout_style: tiles
+layout: portfolio
 ---
 
-### [Taking care over internal tools @ Farewill](/portfolio/taking-care-internal-tools-farewill)
-Complex problems · Testing · Collaboration · Communication · Leading projects (2020)
+> Empathy is Tom's superpower. It's really the basis of what makes him an amazing manager, facilitator and communicator. 
 
-### [Gathering info about a person who’s died @ Farewill](/portfolio/gathering-info-person-died-farewill)
-Complex requirements · UI · Usability · Collaboration · Internal tools (2020)
+– *360 feedback from a colleague, May 2021*
 
-### [Being a manager @ Farewill](/portfolio/being-a-manager)
-Empathy · Support · Progression · Autonomy (ongoing)
+## Design manager ## 
 
-### [Cremation forms @ Farewill](/portfolio/cremation-forms-farewill)
-Service design · Research · Observation (2020)
+I'm a design manager at Farewill. We're a Series B scaleup, [one of Europe's hottest](https://thenextweb.com/news/europes-100-hottest-scaleups-2021). I support the design team and work across our product org to help drive product impact. I stay close to design outcomes through pairing, crits, mentoring and my role as a line manager. I'm regularly a hiring manager. 
 
-### [Launching a probate service @ Farewill](/portfolio/launching-probate-service-farewill)
-User profiling · Discovery · Service design · B2C · Collaboration (2019)
+### Line management
 
-### [Will guidance @ Farewill](/portfolio/will-guidance-farewill)
-Content design (2018)
+I currently have 4 direct reports. I try to support them by caring genuinely, listening actively, and through coaching and mentoring. I like the way that [Daniel Pink]() puts it – that we're motivated by achieving autonomy, mastery and purpose. 
 
-### [Insights for business partners @ Kings Court Trust](/portfolio/insights-business-partners-kct)
-Contextual research · Usability · UI · Measuring impact (2015)
+>I do feel like I can come and talk to Tom about anything, he provides a safe space to talk about thing openly and honestly.
 
-### [Internal case management @ Kings Court Trust](/portfolio/internal-case-management-kct)
-Internal tools · User testing · Information architecture · Collaboration (2018) 
+> Tom is very understanding and will go out of his way to question, listen and understand things. From my first week, he made sure to make time to speak to me about my mental and physical health issues and trying to think about ways he/Farewill can help. I really appreciated the effort he put in to try to understand and accommodate me. 
+
+– *360 feedback from colleagues, May 2021*
+
+### Team lead
+
+In 2021 I was team lead for Farewill's Core Experience team. I was accountable for setting and hitting our OKRs.
+
+> Tom has been a fantastic Team Lead to the group. He's always asking the right questions to get us moving forward and I genuinely feel like he has a sense of how people are doing in the team. It seems that he has excellent working relationships with other parts of the business and always offers to go out and get the answers we need to enable us to move forward. 
+
+> I've really appreciated when Tom has pushed me to be more tactical about how I work - by breaking down projects into tasks, setting time-bound goals, and being ruthless about scope. I always come out feeling so much more clear and motivated about what I'm working on.
+
+– *360 feedback from colleagues, May 2021*
+
+### Senior product designer
+
+> I’m frequently in awe at how Tom can take in what seems to be something incredibly complex or vague and loosely defined and produce out the other side a really clear and well understood model, diagram, design or kick-off doc
+
+– *360 feedback from a colleague, May 2020*
+
+Until August 2021 I was a Lead Product Designer at Farewill. As a designer, I try to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. Here are some of the projects I've led... 

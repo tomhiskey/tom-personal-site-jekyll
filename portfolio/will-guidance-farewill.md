@@ -1,8 +1,8 @@
 ---
 title: Will guidance @ Farewill
 subtitle: Content design (2018)
-date: '2020-05-10'
-thumb_image: 
+date: '2020-05-09'
+thumb_image: images/farewill-will-guidance-instructions-new.png
 image: 
 layout: project
 ---
