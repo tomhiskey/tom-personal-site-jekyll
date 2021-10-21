@@ -13,11 +13,9 @@ accordion:
   - title: How to communicate with me
     content: Please be yourself – I appreciate that we all have different communication styles. But I'm also a sucker for a polite 'how are you?', please, thank you and light-hearted emojis. Slack's fine for simple, short messages, but for anything deeper or complicated I much prefer to hop on Zoom. I may prefer to have a night's sleep before responding to something tricky. 
   - title: Things I struggle with
-    content: My imposter syndrome, which often makes me think that everyone else knows better. I can get defensive during disagreements (did you know that's [hard-wired into our human brains?](https://podcasts.apple.com/gb/podcast/conflicted-is-there-a-route-to-better-disagreement-at-work/id1190000968?i=1000507995326)), but much less so than I used to be, I think.
+    content: My imposter syndrome, which often makes me think that everyone else knows better. I can get defensive during disagreements (did you know that's [hard-wired into our human brains?](https://podcasts.apple.com/gb/podcast/conflicted-is-there-a-route-to-better-disagreement-at-work/id1190000968?i=1000507995326)), but much less so than I used to.
   - title: Things I love
     content: Awkward silences (my colleague Helena calls me the king of awkward silences) – I think they're such a helpful way to get other people to speak, particularly quieter members of a group. I also love other teammates contributing to the design process, whatever their role. And dad jokes.
-  - title: I'm not great at...
-    content: E-commerce · Sales · Branding · Native apps · Pixel perfect interactions · Illustration · Animation · Coding
   - title: Myers Briggs personality
     content: I'm [ENFJ - a protagonist](https://www.16personalities.com/enfj-personality), although I reckon I'm on the border of extrovert and introvert. 
 ---
@@ -26,9 +24,9 @@ accordion:
 
 – *360 feedback from a colleague, May 2020*
 
-I'm a product design manager at [Farewill](https://farewill.com/), in London. I'm in the office a few days a month. The rest of the time I work remotely from home in York.
+I'm a product design manager at [Farewill](https://farewill.com/), in London. My pronouns are he/him. 
 
-My pronouns are he/him. 
+I'm in the office a few days a month. The rest of the time I work remotely from home in York.
 ![Tom at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.png "Me at a design crit")
 
 ## <a name="user-manual"></a>My user manual
