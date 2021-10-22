@@ -11,11 +11,9 @@ layout: portfolio
 
 ## Design manager ## 
 
-I'm a design manager at Farewill. We're a Series B scaleup, [one of Europe's hottest](https://thenextweb.com/news/europes-100-hottest-scaleups-2021). I support the design team and work across our product org to help drive product impact. I stay close to design outcomes through pairing, crits, mentoring and my role as a line manager. I'm regularly a hiring manager. 
+I'm a design manager at Farewill. We're a Series B scaleup, [one of Europe's hottest](https://thenextweb.com/news/europes-100-hottest-scaleups-2021). I support the design team and work across our product org to help drive product impact. I stay close to design outcomes through pairing, crits, mentoring and my role as a line manager. 
 
-### Line management
-
-I currently have 4 direct reports. I try to support them by caring genuinely, listening actively, and through coaching and mentoring. I like the way that [Daniel Pink]() puts it – that we're motivated by achieving autonomy, mastery and purpose. 
+I have 4 direct reports. I try to support them by caring genuinely, listening actively, and through coaching and mentoring. I like the way that [Daniel Pink]() puts it – that we're motivated by achieving autonomy, mastery and purpose. 
 
 >I do feel like I can come and talk to Tom about anything, he provides a safe space to talk about thing openly and honestly.
 
@@ -23,7 +21,7 @@ I currently have 4 direct reports. I try to support them by caring genuinely, li
 
 – *360 feedback from colleagues, May 2021*
 
-### Team lead
+I'm regularly a hiring manager.
 
 In 2021 I was team lead for Farewill's Core Experience team. I was accountable for setting and hitting our OKRs.
 
@@ -33,7 +31,7 @@ In 2021 I was team lead for Farewill's Core Experience team. I was accountable f
 
 – *360 feedback from colleagues, May 2021*
 
-### Senior product designer
+## Senior product designer
 
 > I’m frequently in awe at how Tom can take in what seems to be something incredibly complex or vague and loosely defined and produce out the other side a really clear and well understood model, diagram, design or kick-off doc
 
