@@ -16,8 +16,8 @@ accordion:
     content: My imposter syndrome, which often makes me think that everyone else knows better. I can get defensive during disagreements (did you know that's [hard-wired into our human brains?](https://podcasts.apple.com/gb/podcast/conflicted-is-there-a-route-to-better-disagreement-at-work/id1190000968?i=1000507995326)), but much less so than I used to.
   - title: Things I love
     content: Awkward silences (my colleague Helena calls me the king of awkward silences) – I think they're such a helpful way to get other people to speak, particularly quieter members of a group. I also love other teammates contributing to the design process, whatever their role. And dad jokes.
-  - title: Myers Briggs personality
-    content: I'm [ENFJ - a protagonist](https://www.16personalities.com/enfj-personality), although I reckon I'm on the border of extrovert and introvert. 
+  - title: Myers-Briggs personality
+    content: I'm [ENFJ - a protagonist](https://www.16personalities.com/enfj-personality), although I reckon I'm on the border of extrovert and introvert (and Myers-Briggs is unreliable at best...) 
 ---
 
 > Curiosity, positivity, kindness, and a 'start with why' approach! Also some dope designs.
