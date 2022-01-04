@@ -70,10 +70,16 @@ Through an iterative process, we began to arrive at a solution. I started mockin
 I brought elements of the project to our design crit every week for about 2 months. They said they loved seeing it progress – I wonder if, really, they were sick of it… ;) Our crits are such a helpful way to unblock problems and nudge things forward.
 
 
-### Outcomes + Reflections
+### Outcomes
 
-As of September 2020 the project is still ongoing – I’ll update this bit soon!
+Before the project, we benchmarked the system usability score at 66. One of our goals was to reach a score of 70. We achieved this, reaching a score of 72 at the end of September, a few weeks after launch. (The [system usability scale](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html) is one way of measuring the usability of a product.)
 
-*I have one reflection already – that no amount of user testing with wireframes can replicate running real life cases through an active system.*
+A second goal was to ensure that all new cases were run through Backstage (none on Trello) by the end of September. We achieved this on 10 October.
+
+We measured the average time from the initial fact find call to referral to our legal partners (a key metric for us and customers). Before the project it was 19 days. After the project, it was 6.1 days!
+
+###  Reflections
+
+For internal tooling, no amount of user testing with wireframes can replicate observing users running real cases, with real data.
 
 [Next project →](/portfolio/gathering-info-person-died-farewill)
