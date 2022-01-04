@@ -34,7 +34,3 @@ I'm in the office a few days a month. The rest of the time I work remotely from 
 Aka a [manual of me](https://manualofme.co/), to help teammates understand me a little better. Inspired by the likes of [Dan](https://medium.com/@dasbarrett/a-user-manual-for-dan-d0a285874f72), [Cassie](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) and [Richard](https://medium.com/@mcleanonline/helping-other-people-get-to-know-you-aa2dbff5c0f8).
 
 {% include accordion.html %}
-
-Away from work, I'm learning to play jazz piano – I recently had my first piano lesson in 25 years. I've run a marathon, laminated a kitchen worktop and built a child's play kitchen from wood. One day I'd like to build a sustainable house with [cross-laminated timber](https://www.google.com/search?q=clt+house&sxsrf=AOaemvISDNEKLFQs9IjXpTWUBWsZQlGwvQ:1631281736242&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi33aqDxvTyAhVNSEEAHQ_gD8QQ_AUoAXoECAEQAw&biw=1904&bih=807).
-
-![Tom making bread with daughter in Morocco](/images/tom-morocco.jpeg "Making bread with my daughter in Mororcco")
