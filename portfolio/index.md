@@ -11,21 +11,17 @@ layout: portfolio
 
 ## Design manager ## 
 
-I'm a design manager at Thriva. I support the design team and work across our product org to help drive product impact. I stay close to design outcomes through pairing, crits, mentoring and my role as a line manager. 
+I'm a design manager at [Thriva](https://thriva.co/). I help to:
 
-I try to support my direct reports by caring genuinely, listening actively, and through coaching and mentoring. I like the way that [Daniel Pink]() puts it – that we're motivated by achieving autonomy, mastery and purpose. 
+* Support my direct reports by caring genuinely, listening actively and through coaching, pairing and mentoring. I like the way that [Daniel Pink](https://www.danpink.com/books/drive/) puts it – that we're motivated by autonomy, mastery and purpose. 
 
->I do feel like I can come and talk to Tom about anything, he provides a safe space to talk about thing openly and honestly.
+* Support and grow a diverse design team, helping set up rituals, tools, practices and an equitable working environment.
 
-> Tom is very understanding and will go out of his way to question, listen and understand things. From my first week, he made sure to make time to speak to me about my mental and physical health issues and trying to think about ways he/Farewill can help. I really appreciated the effort he put in to try to understand and accommodate me. 
+* Support product leads and helping drive product impact by bringing a design perspective, building connections across teams and helping develop ways of working.  
 
-– *360 feedback from colleagues, May 2021*
+>I do feel like I can come and talk to Tom about anything, he provides a safe space to talk about thing openly and honestly. From my first week, he made sure to make time to speak to me about my mental and physical health issues and trying to think about ways he can help.
 
-I'm regularly a hiring manager.
-
-In 2021 I was team lead for Farewill's Core Experience team. I was accountable for setting and hitting our OKRs.
-
-> Tom has been a fantastic Team Lead to the group. He's always asking the right questions to get us moving forward and I genuinely feel like he has a sense of how people are doing in the team. It seems that he has excellent working relationships with other parts of the business and always offers to go out and get the answers we need to enable us to move forward. 
+> Tom's always asking the right questions to get us moving forward. It seems that he has excellent working relationships with other parts of the business and always offers to go out and get the answers we need to enable us to move forward. 
 
 > I've really appreciated when Tom has pushed me to be more tactical about how I work - by breaking down projects into tasks, setting time-bound goals, and being ruthless about scope. I always come out feeling so much more clear and motivated about what I'm working on.
 
