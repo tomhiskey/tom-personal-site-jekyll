@@ -24,7 +24,7 @@ accordion:
 
 – *360 feedback from a colleague, May 2020*
 
-I'm a product design manager at [Farewill](https://farewill.com/), in London. My pronouns are he/him. 
+I'm a product design manager at [Thriva](https://thriva.co/), in London. My pronouns are he/him. 
 
 I'm in the office a few days a month. The rest of the time I work remotely from home in York.
 ![Tom at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.png "Me at a design crit")

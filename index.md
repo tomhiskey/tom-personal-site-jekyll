@@ -1,7 +1,7 @@
 ---
-title: Hello there! I'm a product design manager at Farewill
+title: Hello there! I'm a product design manager at Thriva
 hide_title: false
-subtitle: We're changing the way the world deals with death
+subtitle: We're increasing the time we all spend in good health
 layout: page
 ---
 
