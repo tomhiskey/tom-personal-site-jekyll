@@ -1,7 +1,7 @@
 ---
 title: Hello there! I'm a product design manager at Farewill
 hide_title: false
-subtitle: We're changing the way the world deals with death.
+subtitle: We're changing the way the world deals with death
 layout: page
 ---
 

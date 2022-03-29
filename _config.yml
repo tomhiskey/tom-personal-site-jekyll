@@ -59,6 +59,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+  - vendor/bundle/ruby/2.6.0
+  - vendor
+  - vendor/*
   - LICENSE.md
   - README.md
   - netlify.toml
