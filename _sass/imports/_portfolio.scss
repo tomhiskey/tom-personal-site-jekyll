@@ -186,15 +186,15 @@
       -webkit-box-flex: 0;
       -ms-flex: 0 0 auto;
       flex: 0 0 auto;
-      -ms-flex-preferred-size: 50%;
-      flex-basis: 50%;
-      max-width: 50%;
+      -ms-flex-preferred-size: 100%; // was 50
+      flex-basis: 100%; // was 50
+      max-width: 100%; // was 50
       padding-left: 0.83333em;
       padding-right: 0.83333em;
     }
 
     .project-title {
-      font-size: 0.8em;
+      font-size: 0.9em;
       margin: 0;
     }
 
@@ -238,7 +238,7 @@
       -webkit-transition: opacity .3s;
       transition: opacity .3s;
       background-color: rgba(255, 255, 255, 0.952); // added background to title
-      padding: 20px; // added background to title
+      padding: 15px; // added background to title
     }
 
     .project-link {
