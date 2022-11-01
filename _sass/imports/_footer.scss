@@ -2,7 +2,7 @@
  * Site Footer
  */
 .site-footer {
-  border-top: 1px solid _palette(charcoal-light-75);
+  border-top: 2px solid _palette(charcoal-light-7); // was _palette(charcoal-light-75) before dark mode
   padding-bottom: 1.33333em;
   padding-top: 2.5em;
 }

@@ -57,7 +57,7 @@ $font: (
 
 // Palette.
 $palette: (
-  charcoal:          #222222, // was #272c30
+  charcoal:          #f8f8f8, // was #272c30, then #222222 before changing to dark mode
   charcoal-light-3:  lighten(#222222, 3%),
   charcoal-light-7:  lighten(#222222, 7%),
   charcoal-light-15: lighten(#222222, 15%),
@@ -67,7 +67,7 @@ $palette: (
   charcoal-light-75: lighten(#222222, 75%),
   charcoal-light-80: lighten(#222222, 80%),
   charcoal-dark-15:  darken(#222222, 15%),
-  accent:            #252f3d,
+  accent:            #ffffff, // was #252f3d before dark mode 
   accent-blue:       #0c8aea,
   accent-green:      #0da5b1,
   accent-violet:     #7c43a8,

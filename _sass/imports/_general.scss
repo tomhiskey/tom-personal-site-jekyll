@@ -9,13 +9,13 @@ html {
 }
 
 body {
-  background: #f9f9f9;
+  background: #222222; // was f9f9f9 before dark mode
   color: _palette(charcoal);
   line-height: 1.66667;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-rendering: optimizeLegibility;
-  border: 10px solid #ffffff;
+  border: 10px solid _palette(charcoal-light-7);
 }
 
 a {

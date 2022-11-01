@@ -28,7 +28,7 @@
   }
 
   &:after {
-    background: rgba(_palette(charcoal), .65);
+    background: rgba(_palette(charcoal), .90);
     bottom: 0;
     content: "";
     left: 0;
@@ -59,7 +59,7 @@
 
 .project-link {
   border: 0;
-  color: _palette(charcoal);
+  color: #222222 !important; // was _palette(charcoal) before dark mode
   display: block;
   position: relative;
 
