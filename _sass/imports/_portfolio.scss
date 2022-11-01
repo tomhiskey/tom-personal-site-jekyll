@@ -54,6 +54,7 @@
     -webkit-transition: 1s ease;
     transition: 1s ease;
     width: 100%;
+    opacity: 1; // added this 
   }
 }
 
@@ -68,11 +69,15 @@
     img {
       -webkit-transform: scale(1.05,1.05);
       transform: scale(1.05,1.05);
+      opacity: 1; // added
+      -webkit-transform: opacity 0.3s; // added
+      transform: opacity 0.3s; // added
     }
   }
 }
 
-@media only screen and (min-width: 761px) {
+
+@media only screen and (min-width: 761px) { // was min-width: 761px
   .portfolio-feed {
     display: -webkit-box;
     display: -ms-flexbox;
@@ -81,6 +86,10 @@
     flex-wrap: wrap;
     margin-left: -0.83333em;
     margin-right: -0.83333em;
+
+    img {
+      opacity: .5; // added this 
+    }
 
     .project {
       box-sizing: border-box;
@@ -130,9 +139,11 @@
     }
 
     .project-title {
-      opacity: 0;
+      opacity: 1; // if this is 1, project titles always visible (761px and above only)
       -webkit-transition: opacity .3s;
       transition: opacity .3s;
+      background-color: rgba(255, 255, 255, 0.952); // added background to title
+      padding: 30px; // added background to title
     }
 
     .project-link {
@@ -146,7 +157,102 @@
 
         .project-thumbnail {
           &:after {
-            opacity: 1;
+            opacity: 0; // this is the solid colour overlay over the image. Change to 1 to show it.
+            visibility: visible;
+          }
+        }
+      }
+    }
+  }
+}
+
+// ADDED ALL THIS AFTER HERE 
+@media only screen and (max-width: 760px) { // ADDED ALL THIS
+  .portfolio-feed {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-left: -0.83333em;
+    margin-right: -0.83333em;
+
+    img {
+      opacity: .5; // added this 
+    }
+
+    .project {
+      box-sizing: border-box;
+      -webkit-box-flex: 0;
+      -ms-flex: 0 0 auto;
+      flex: 0 0 auto;
+      -ms-flex-preferred-size: 50%;
+      flex-basis: 50%;
+      max-width: 50%;
+      padding-left: 0.83333em;
+      padding-right: 0.83333em;
+    }
+
+    .project-title {
+      font-size: 0.8em;
+      margin: 0;
+    }
+
+    &.layout-mosaic {
+      .project {
+        -ms-flex-preferred-size: 60%;
+        flex-basis: 60%;
+        max-width: 60%;
+
+        &:nth-child(4n+2),
+        &:nth-child(4n+3) {
+          -ms-flex-preferred-size: 40%;
+          flex-basis: 40%;
+          max-width: 40%;
+
+          .project-thumbnail {
+            &:before {
+              padding-top: calc(90% + 9px);
+            }
+          }
+        }
+      }
+    }
+
+    .project-header {
+      box-sizing: border-box;
+      left: 0;
+      margin: 0;
+      padding: 1.33333em;
+      position: absolute;
+      text-align: center;
+      top: 50%;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+      width: 100%;
+      z-index: 2;
+    }
+
+    .project-title {
+      opacity: 1; // if this is 1, project titles always visible (761px and above only)
+      -webkit-transition: opacity .3s;
+      transition: opacity .3s;
+      background-color: rgba(255, 255, 255, 0.952); // added background to title
+      padding: 20px; // added background to title
+    }
+
+    .project-link {
+      color: #fff;
+
+      &:hover,
+      &:focus {
+        .project-title {
+          opacity: 1;
+        }
+
+        .project-thumbnail {
+          &:after {
+            opacity: 0; // this is the solid colour overlay over the image. Change to 1 to show it.
             visibility: visible;
           }
         }
