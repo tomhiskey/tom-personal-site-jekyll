@@ -1,6 +1,6 @@
 ---
 title: Thank You!
-image: images/thank-you.jpg
+image: images/thank-you.webp
 layout: page
 ---
 

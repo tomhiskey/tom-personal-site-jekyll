@@ -2,8 +2,8 @@
 title: Gathering information about a person who's died @ Farewill
 subtitle: Complex requirements · UI · Usability · Collaboration · Internal tools (2020)
 date: '2020-05-10'
-thumb_image: images/fact-find-thumbnail.png 
-image: images/Fact-find-crit-sketch-later.gif 
+thumb_image: images/fact-find-thumbnail.webp 
+image: images/Fact-find-crit-sketch-later.webp 
 layout: project
 ---
 
@@ -30,11 +30,11 @@ User researcher (Clare), PM (James), engineers (Emily, Jacob, Gavin, Demi), plus
 
 I ran a kick-off workshop with users and stakeholders from across the business, plus all the product team. It helped to surface hopes, fears, problems and scope. I always hope a kick-off will gather a wide range of perspectives, uncover problems and help bring the team along on the journey.
 
-![Screenshot from kick off workshop](/images/fact-find-kick-off-workshop.jpg "Kick off workshop")
+![Screenshot from kick off workshop](/images/fact-find-kick-off-workshop.webp "Kick off workshop")
 
 Above: a small section of our kick-off Miro board.
 
-![Excerpt from kick off doc](/images/fact-find-kick-off-doc.png "Excerpt from kick off doc")
+![Excerpt from kick off doc](/images/fact-find-kick-off-doc.webp "Excerpt from kick off doc")
 
 As I often do for larger projects, I wrote a kick-off doc. It reflected user needs, project goals, team, stakeholders and success metrics. It’s a useful thing to refer back to during the project, to remember what we agreed. As always, it was in the open, for transparency and to encourage comments. 
 
@@ -48,13 +48,13 @@ I spent extra time with the team watching them use the spreadsheet and listening
 
 I brought early stage UI designs to our weekly design crit. Our crit is a safe environment for subjective feedback from the rest of the design team. It’s a great way to validate, tweak or throw out scrappy ideas. 
 
-![Farewill design crit](/images/Farewill-design-crit.jpeg "Farewill design crit")
+![Farewill design crit](/images/Farewill-design-crit.webp "Farewill design crit")
 
 Above: Farewill’s design crit, early 2020 (I’m third from left) 
 
 I used the crit to help validate or throw out sketchy ideas.
 
-![Early rough design](/images/Fact-find-crit-sketch-earlier.gif "Early rough design")
+![Early rough design](/images/Fact-find-crit-sketch-earlier.webp "Early rough design")
 
 Above: a rough sketch I brought to the crit
 
@@ -68,7 +68,7 @@ Feedback from one crit session included:
 
 I ran user tests and interviews, as did our PM James. I tend to find the best insight comes from users using prototypes, and feeding back in 1:1 sessions. I was also happy to receive comments directly on the designs (see below). 
 
-![Screenshot of feedback comments](/images/Fact-find-figma-comments.png "Screenshot of feedback comments")
+![Screenshot of feedback comments](/images/Fact-find-figma-comments.webp "Screenshot of feedback comments")
 
 Above: on a complicated project, feedback can be quite overwhelming, but always helpful. 
 
@@ -94,7 +94,7 @@ I also introduced a toggle. I sketched a number of options. For the final one, I
 
 Fact find was essentially a (very) long form. We included floating navigation to make it easy for users to jump between sections – particularly important as customer calls often don’t follow a strictly linear process. 
 
-![Later designs](/images/Fact-find-crit-sketch-later.gif "Later designs")
+![Later designs](/images/Fact-find-crit-sketch-later.webp "Later designs")
 
 For things like assets, we introduced a card pattern – users could add as many of a particular type of asset as needed, while keeping the UI relatively compact and readable. 
 I worked closely with the engineers during the build. We ironed out various things collaboratively, like how users added notes to sections and how the data fed through to a summary page.

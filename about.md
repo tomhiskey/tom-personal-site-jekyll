@@ -27,7 +27,7 @@ accordion:
 I'm a product design manager at [Thriva](https://thriva.co/), in London. My pronouns are he/him. 
 
 I'm in the office a few days a month. The rest of the time I work remotely from home in York.
-![Tom at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.png "Me at a design crit")
+![Tom at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.webp "Me at a design crit")
 
 ## <a name="user-manual"></a>My user manual
 

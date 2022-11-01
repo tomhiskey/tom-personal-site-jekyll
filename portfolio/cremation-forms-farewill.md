@@ -2,8 +2,8 @@
 title: Cremation forms @ Farewill
 subtitle: Service design · Research · Observation · Internal tools (2020)
 date: '2020-05-10'
-thumb_image: images/cremation-forms-service-blueprint-2.png 
-image: images/cremation-forms-service-blueprint-2.png 
+thumb_image: images/cremation-forms-service-blueprint-2.webp 
+image: images/cremation-forms-service-blueprint-2.webp 
 layout: project
 ---
 
@@ -28,23 +28,23 @@ PM (James), engineers (primarily Gavin and Jacob), plus various users and stakeh
 
 I ran a number of observation sessions with our cremation operations team. They were so generous with their time! They were happy for me to watch them go about their work, and to spend time answering my questions about their process. 
 
-![Screenshot from user interview](/images/cremation-forms-user-interview.jpg "Screenshot from user interview")
+![Screenshot from user interview](/images/cremation-forms-user-interview.webp "Screenshot from user interview")
 
 My goal from the sessions was to map out how we run our cremation service, to help us identify pain points to solve. I created a service blueprint which outlined how we move cremation cases from stage to stage and team to team, with various dependencies and touchpoints en route.
 
-![Excerpt from service blueprint](/images/cremation-forms-service-blueprint-2.png "Excerpt from service blueprint")
+![Excerpt from service blueprint](/images/cremation-forms-service-blueprint-2.webp "Excerpt from service blueprint")
 
 Using the service blueprint, the product team collaborated to group pain points and agree a top priority. After jotting down different ideas and considering the impact vs effort, we made a decision – we’d tackle the process for sending forms to the customer to sign. That’s the dotted red oval in the screenshot above. 
 
 I wrote a detailed kick-off doc which was shared around openly for discussion. The doc outlined the problems and user needs, the current process and a suggestion for v1.
 
-![Screenshot from kick-off doc](/images/cremation-forms-kick-off.png "Screenshot from kick-off doc")
+![Screenshot from kick-off doc](/images/cremation-forms-kick-off.webp "Screenshot from kick-off doc")
 
 Separately, the engineers investigated options for e-signatures – a significant part of the project was enabling customers to sign forms digitally. 
 
 I began to consider the UI, creating high fidelity mockups. Gavin and Jacob contributed too – the UI was very much a joint effort. 
 
-![Screenshot of UI mockup](/images/cremation-forms-hi-fi-mockups.png "Screenshot of UI mockup")
+![Screenshot of UI mockup](/images/cremation-forms-hi-fi-mockups.webp "Screenshot of UI mockup")
 
 The UI aspect of this project was fairly lightweight – the bulk of the effort was our upfront discovery and the amazing work from Gavin and Jacob to get e-signatures working. 
 
@@ -52,7 +52,9 @@ The UI aspect of this project was fairly lightweight – the bulk of the effort 
 
 The project introduced a totally new process for our cremation teams, allowing them to submit forms for e-signature by customers. 
 
-![Video of live product](/images/cremation-forms-live-gif.gif "Video of live product")
+![Screenshot from live product](/images/cremation-forms-live-gif-2.webp "Screenshot from live product")
+
+![Screenshot from live product](/images/cremation-forms-live-gif.webp "Screenshot from live product")
 
 Incredibly, the project saved the team hours every day, which meant they could not only process more cases, faster, but also communicate more effectively with customers.
 

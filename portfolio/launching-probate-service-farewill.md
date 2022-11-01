@@ -2,8 +2,8 @@
 title: Launching a probate service @ Farewill
 subtitle: Discovery research · Service design · User profiling · Collaboration (2019)
 date: '2020-05-09'
-thumb_image: images/launching-probate-service-job-stories.jpg 
-image: images/launching-probate-service-job-stories.jpg 
+thumb_image: images/launching-probate-service-job-stories.webp 
+image: images/launching-probate-service-job-stories.webp 
 layout: project
 ---
 
@@ -28,11 +28,11 @@ Although not a typical product team, we ran daily stand-ups and weekly retros to
 
 I ran a discovery research phase, including a focus group with bereaved relatives. Focus groups are rarely seen in product design, usually for good reason. But for generative research, in the right circumstances, they can be hugely impactful. Death, for example, is an emotional, rarely-discussed topic – the group format was beneficial because the participants consoled each other and aired their unique experiences. It was like a support group. 
 
-![Focus group](/images/launching-probate-service-focus-group.jpg "Focus group")
+![Focus group](/images/launching-probate-service-focus-group.webp "Focus group")
 
 Above: me facilitating a focus group
 
-![Quote from focus group](/images/launching-probate-service-focus-group-quote.png "Quote from focus group")
+![Quote from focus group](/images/launching-probate-service-focus-group-quote.webp "Quote from focus group")
 
 Above: a quote from a focus group participant
 
@@ -47,19 +47,19 @@ So I can ___
 
 Job stories help us express needs from the customer’s perspective. As a team we wrote about 50. After the session, I sense-checked, refined, filtered and grouped the results.
 
-![Research analysis](/images/launching-probate-service-job-stories.jpg "Research analysis")
+![Research analysis](/images/launching-probate-service-job-stories.webp "Research analysis")
 
 I arranged a further group session to prioritise the job stories. We then re-worded them and arranged them into goals, motivations and frustrations.
 
 I used these conclusion to form our persona – a representation of evidence, expressed as an individual, to help us stay focused on customer needs. We gave the persona a photo, a bio and a name — Carly. Carly represents our customers. During the project, we spoke of her often, and referred back to her when making decisions.
 
-![Excerpt from persona](/images/launching-probate-service-persona.jpg "Excerpt from persona")
+![Excerpt from persona](/images/launching-probate-service-persona.webp "Excerpt from persona")
 
 Every aspect of Carly is based on first-hand evidence.
 
 As the project progressed, we worked through the considerations of how the service would be run. I helped design the service and drew up service blueprints to help visualise the choices we were making and identify areas for refinement. 
 
-![Excerpt from service blueprint](/images/launching-probate-service-blueprint.png "Excerpt from service blueprint")
+![Excerpt from service blueprint](/images/launching-probate-service-blueprint.webp "Excerpt from service blueprint")
 
 The research fed directly into the service. As an example – we knew how often people have a feeling of confusion and being out of control when handing over probate work to a professional.
 

@@ -31,7 +31,7 @@ Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my know
 * I've ended up with a faster, better website 
 * It's great to move away from Wordpress, which I've increasingly found to be slow, bloated and susceptible to hackers (not to mention it's very uncool for a designer's website)
 
-![Website speed test - Wordpress vs Eleventy static site](/images/google-speed-test-wordpress-vs-static-site.jpg)<em>Woah, that's quick. Google speed test on my site before (left, using a custom installation of Wordpress on a shared server) and after (right, static site built with Eleventy on GitHub Pages) </em>
+![Website speed test - Wordpress vs Eleventy static site](/images/google-speed-test-wordpress-vs-static-site.webp)<em>Woah, that's quick. Google speed test on my site before (left, using a custom installation of Wordpress on a shared server) and after (right, static site built with Eleventy on GitHub Pages) </em>
 
 ## The bad stuff
 
@@ -41,7 +41,7 @@ Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors... my know
 * Git feels like a black box that I don't yet feel comfortable enough with
 * It was painful trying to deploy my Eleventy site to GitHub Pages ([I've written about it here](/posts/deploying-eleventy-to-github-pages-one-way))
 
-![Building my website - Visual Studio Code](/images/visual-studio-code.png)<em>The murky (but fun) world of code editors and Terminal - this is what I'm looking at while I write this blog post</em>
+![Building my website - Visual Studio Code](/images/visual-studio-code.webp)<em>The murky (but fun) world of code editors and Terminal - this is what I'm looking at while I write this blog post</em>
 
 ## Something I'd do differently
 

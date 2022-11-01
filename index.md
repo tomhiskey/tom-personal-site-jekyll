@@ -5,4 +5,4 @@ subtitle: We're increasing the time we all spend in good health
 layout: page
 ---
 
-![Tom at a typewriter outside](/images/tom-typewriter.jpeg "Tom at a typewriter outside")
+![Tom at a typewriter outside](/images/tom-typewriter.webp "Tom at a typewriter outside")

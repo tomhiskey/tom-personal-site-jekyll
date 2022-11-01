@@ -21,7 +21,7 @@ A few 2019 highlights.
 - I started learning Javascript with Codecademy
 - Farewill continues to evolve and we're always trying new things, which means I'm learning a lot
 
-![Farewill office move](/images/farewill-office-move.JPG)<em>The Farewill team moving into the new office in March</em>
+![Farewill office move](/images/farewill-office-move.webp)<em>The Farewill team moving into the new office in March</em>
 
 ## Good personal stuff
 
@@ -34,9 +34,9 @@ A few 2019 highlights.
 - 2019 was the first full year in our new house - I still think very fondly of all the effort we put in to renovate it, and how much more special that makes living here
 - I bumped into Noel Fielding in a cafe and took a selfie. I still pretend he's my friend.
 
-![Yorkshire Marathon](/images/yorkshire-marathon.jpeg)<em>Running the Yorkshire Marathon</em>
-![Marshmallows on a beach](/images/isle-of-man-beach.JPG)<em>Toasting marshmallows on an Isle of Man beach</em>
-![Lottie in Sri Lanka](/images/sri-lanka.JPG)<em>Lottie loving the Sri Lanka adventure</em>
+![Yorkshire Marathon](/images/yorkshire-marathon.webp)<em>Running the Yorkshire Marathon</em>
+![Marshmallows on a beach](/images/isle-of-man-beach.webp)<em>Toasting marshmallows on an Isle of Man beach</em>
+![Lottie in Sri Lanka](/images/sri-lanka.webp)<em>Lottie loving the Sri Lanka adventure</em>
 
 
 ## The not so good
@@ -51,10 +51,10 @@ A few 2019 highlights.
 - I feel like I wasted quite a few evenings this year through tiredness
 - My health has slipped a bit since the marathon
 
-![Remote working](/images/remote-working-screenshot.jpg)<em>Remote working - a mixed bag</em>
+![Remote working](/images/remote-working-screenshot.webp)<em>Remote working - a mixed bag</em>
 
 ## Too Long Didn't Read
 
 New experiences and lots of learning. I give 2019...
 
-![Strictly judges score 8](/images/strictly-score-8.jpg)
+![Strictly judges score 8](/images/strictly-score-8.webp)

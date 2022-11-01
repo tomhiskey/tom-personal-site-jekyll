@@ -2,7 +2,7 @@
 title: Will guidance @ Farewill
 subtitle: Content design (2018)
 date: '2020-05-09'
-thumb_image: images/farewill-will-guidance-instructions-new.png
+thumb_image: images/farewill-will-guidance-instructions-new.webp
 image: 
 layout: project
 ---
@@ -30,7 +30,7 @@ I reviewed the existing will design and invited others to do so. Collectively, w
 - The content wasn’t entirely in a sensible order – the instruction to print in black and white came further down the page than ‘print your will’. 
 - The guidance about witnessing was hard to follow.
 
-![Farewill's old will guidance](/images/farewill-will-guidance-instructions-old.png "Farewill's old will guidance")
+![Farewill's old will guidance](/images/farewill-will-guidance-instructions-old.webp "Farewill's old will guidance")
 
 Above: Farewill's old will guidance
 
@@ -41,7 +41,7 @@ Here are some of the things we changed:
 - Clearer guidance for choosing witnesses
 - Readability tweaks like improved contrast and line height
 
-![Farewill's new will guidance](/images/farewill-will-guidance-instructions-new.png "Farewill's new will guidance")
+![Farewill's new will guidance](/images/farewill-will-guidance-instructions-new.webp "Farewill's new will guidance")
 
 Above: updated designs
 

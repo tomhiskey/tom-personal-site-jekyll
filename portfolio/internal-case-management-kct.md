@@ -2,8 +2,8 @@
 title: Internal case management @ Kings Court Trust
 subtitle: Internal tools · User testing · Information architecture · Collaboration (2018)  
 date: '2020-05-08'
-thumb_image: images/kct-moose-new-assets.jpg 
-image: images/kct-moose-new-assets.jpg 
+thumb_image: images/kct-moose-new-assets.webp 
+image: images/kct-moose-new-assets.webp 
 layout: project
 ---
 
@@ -23,7 +23,7 @@ Me – Sole product designer and project lead, working as part of an in-house cr
 
 I ran a kickoff workshop. The goals were to uncover and prioritise problems according to stakeholders (most of whom were also users), and to understand requirements and expectations from the business. 
 
-![Photo from kick-off workshop](/images/kct-moose-kickoff.jpg "Photo from kick-off workshop")
+![Photo from kick-off workshop](/images/kct-moose-kickoff.webp "Photo from kick-off workshop")
 
 **User journeys**
 
@@ -31,7 +31,7 @@ I produced user journeys to help visualise the workflows of case management user
 
 Unpicking the many and varied workflows of over 100 staff took time, patience, and lots of pen on paper. I use A3 card and coloured pens to produce fast visualisations and paper prototypes, with help and feedback from users and stakeholders across the company.
 
-![Excerpt from user journeys](/images/kct-moose-user-journey.png "Excerpt from user journeys")
+![Excerpt from user journeys](/images/kct-moose-user-journey.webp "Excerpt from user journeys")
 
 Above - an example of user flows from one part of the system.
 
@@ -39,15 +39,15 @@ Above - an example of user flows from one part of the system.
 
 A key part of the research phase was watching staff use the existing system. I conducted over 50 in depth interviews and user tests. I recorded, summarised and analysed each one. 
 
-![Photo of a user test](/images/kct-moose-user-test.jpg "Photo of a user test")
+![Photo of a user test](/images/kct-moose-user-test.webp "Photo of a user test")
 
-![User test analysis](/images/kct-moose-user-test-analysis.png "User test analysis")
+![User test analysis](/images/kct-moose-user-test-analysis.webp "User test analysis")
 
 **Analysis**
 
 At the end of the research phase I undertook a detailed analysis of findings, and boiled down the data into key issues and priorities. I visualised the research and presented the findings to the business.
 
-![User needs analysis](/images/kct-moose-issue-analysis.png "User needs analysis")
+![User needs analysis](/images/kct-moose-issue-analysis.webp "User needs analysis")
 
 **Card sorting**
 
@@ -55,23 +55,23 @@ Card sorting is a technique to organise content within a system, to help develop
 
 In card-sorting workshops, I ask users to identify and group pages or features and provide a name for each group. 
 
-![Photo of card sorting workshop](/images/kct-moose-card-sorting.jpg "Photo of card sorting workshop")
+![Photo of card sorting workshop](/images/kct-moose-card-sorting.webp "Photo of card sorting workshop")
 
 **Navigation**
 
 Based on card-sorting, user interviews and user testing, I mocked up ideas for the navigation to provide a more usable, streamlined experience, particularly for new users.
  
-![Mockup of new navigation](/images/kct-moose-new-navigation.jpg "Mockup of new navigation")
+![Mockup of new navigation](/images/kct-moose-new-navigation.webp "Mockup of new navigation")
  
 **UI design**
 
 Following the research phase I conducted an extensive, iterative design process. With continuing input from users, I produced wireframes and then an interactive prototype.
 
-![Hi-fi mockups](/images/kct-moose-new-summary.jpg "Hi-fi mockups")
+![Hi-fi mockups](/images/kct-moose-new-summary.webp "Hi-fi mockups")
 
-![Hi-fi mockups](/images/kct-moose-new-history.jpg "Hi-fi mockups")
+![Hi-fi mockups](/images/kct-moose-new-history.webp "Hi-fi mockups")
 
-![Hi-fi mockups](/images/kct-moose-new-assets.jpg "Hi-fi mockups")
+![Hi-fi mockups](/images/kct-moose-new-assets.webp "Hi-fi mockups")
 
 
 ### Outcomes
