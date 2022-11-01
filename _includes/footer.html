@@ -4,11 +4,14 @@
       <div class="site-info">
         {% assign content_is_not_empty = site.footer.content | is_not_empty %}
         {% if content_is_not_empty %}
-        <span class="copyright">{{ site.footer.content }}</span>
+
+        <div id="wcb" class="carbonbadge wcb-d"></div>
+        <script src="https://unpkg.com/website-carbon-badges@1.1.3/b.min.js" defer></script>
+        <!-- <span class="copyright">{{ site.footer.content }}</span> -->
         {% endif %}
-        {% for action in site.footer.links %}
-          
-          {% include action_link.html action=action %}
+        <!-- {% for action in site.footer.links %}
+  
+          {% include action_link.html action=action %} -->
         {% endfor %}
       </div><!-- .site-info -->
       {% assign has_social_is_not_empty = site.footer.has_social | is_not_empty %}
