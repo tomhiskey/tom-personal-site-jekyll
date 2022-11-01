@@ -59,7 +59,7 @@
 }
 
 .project-link {
-  border: 0;
+  border: 2px solid _palette(charcoal-light-60); // was 0
   color: #222222 !important; // was _palette(charcoal) before dark mode
   display: block;
   position: relative;
@@ -88,7 +88,7 @@
     margin-right: -0.83333em;
 
     img {
-      opacity: .5; // added this 
+      opacity: .3; // added this 
     }
 
     .project {
