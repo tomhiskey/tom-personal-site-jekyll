@@ -9,6 +9,9 @@ layout: portfolio
 
 – *360 feedback from a colleague, May 2021*
 
+<br>
+
+
 ## Design manager ## 
 
 I'm a design manager at [Thriva](https://thriva.co/). I help to:
@@ -27,10 +30,17 @@ I'm a design manager at [Thriva](https://thriva.co/). I help to:
 
 – *360 feedback from colleagues, May 2021*
 
-## Senior product designer
+<br>
+
+
+
+## Lead product designer
+
+Before I became a design manager, I was a lead product designer. As a designer, I try to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. 
 
 > I’m frequently in awe at how Tom can take in what seems to be something incredibly complex or vague and loosely defined and produce out the other side a really clear and well understood model, diagram, design or kick-off doc
 
 – *360 feedback from a colleague, May 2020*
 
-Before I became a design manager in July 2021 I was a senior product designer. As a designer, I try to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. Here are some of the projects I've led... 
+Here are some of the design projects I've led...
+

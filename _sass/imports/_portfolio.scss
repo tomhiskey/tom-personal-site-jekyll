@@ -59,7 +59,7 @@
 }
 
 .project-link {
-  border: 1px solid _palette(charcoal-light-40); // was 0
+  border: 2px solid _palette(charcoal-light-80); // was 0, then 1
   color: #222222 !important; // was _palette(charcoal) before dark mode
   display: block;
   position: relative;

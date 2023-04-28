@@ -24,9 +24,13 @@ accordion:
 
 – *360 feedback from a colleague, May 2020*
 
-I'm a product design manager at [Thriva](https://thriva.co/), in London. My pronouns are he/him. 
+I'm a product design manager / design lead at [Thriva](https://thriva.co/), in London. 
 
-I'm in the office a few days a month. The rest of the time I work remotely from home in York.
+My pronouns are he/him. 
+
+I care about supporting people, growing teams, building human-centered products and shaping strategy.
+
+I’ve been in management roles since 2019. I strive to create safe spaces where people can be their best selves, develop in their careers and enjoy solving meaningful problems.
 ![Tom at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.webp "Me at a design crit")
 
 ## <a name="user-manual"></a>My user manual
