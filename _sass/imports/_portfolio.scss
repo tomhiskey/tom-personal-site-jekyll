@@ -10,7 +10,7 @@
 }
 
 .project-title {
-  font-size: 1.33333em;
+  font-size: 1em; // was 1.33333em
   margin: 0;
 }
 
@@ -28,7 +28,7 @@
   }
 
   &:after {
-    background: rgba(_palette(charcoal), .90);
+    background: rgba(_palette(charcoal), .90); // was rgba(_palette(charcoal), .90);
     bottom: 0;
     content: "";
     left: 0;
@@ -54,14 +54,14 @@
     -webkit-transition: 1s ease;
     transition: 1s ease;
     width: 100%;
-    opacity: 1; // added this 
+    // opacity: 1; // added this 
   }
 }
 
 .project-link {
-  border: 2px solid _palette(charcoal-light-80); // was 0, then 1
-  color: #222222 !important; // was _palette(charcoal) before dark mode
-  display: block;
+  // border: 2px solid _palette(charcoal-light-80); // was 0, then 1
+  color: #ffffff !important; // was _palette(charcoal) before dark mode
+  display: inline; // was block
   position: relative;
 
   &:hover,
@@ -69,9 +69,9 @@
     img {
       -webkit-transform: scale(1.05,1.05);
       transform: scale(1.05,1.05);
-      opacity: 1; // added
-      -webkit-transform: opacity 0.3s; // added
-      transform: opacity 0.3s; // added
+      // opacity: 1; // added
+      // -webkit-transform: opacity 0.3s; // added
+      // transform: opacity 0.3s; // added
     }
   }
 }
@@ -88,7 +88,7 @@
     margin-right: -0.83333em;
 
     img {
-      opacity: .3; // added this 
+    //   opacity: .3; // added this 
     }
 
     .project {
@@ -130,8 +130,8 @@
       margin: 0;
       padding: 1.33333em;
       position: absolute;
-      text-align: center;
-      top: 50%;
+      text-align: right; // was centre
+      top: 90%; // was 50% 
       -webkit-transform: translateY(-50%);
       transform: translateY(-50%);
       width: 100%;
@@ -142,8 +142,9 @@
       opacity: 1; // if this is 1, project titles always visible (761px and above only)
       -webkit-transition: opacity .3s;
       transition: opacity .3s;
-      background-color: rgba(255, 255, 255, 0.952); // added background to title
-      padding: 30px; // added background to title
+      background-color: #222222; // added background to title
+      padding: 6px 10px 6px 10px; // added background to title
+      display: inline; // added this to make background hug contents 
     }
 
     .project-link {
@@ -166,97 +167,3 @@
   }
 }
 
-// ADDED ALL THIS AFTER HERE 
-@media only screen and (max-width: 760px) { // ADDED ALL THIS
-  .portfolio-feed {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-wrap: wrap;
-    flex-wrap: wrap;
-    margin-left: -0.83333em;
-    margin-right: -0.83333em;
-
-    img {
-      opacity: .3; // added this 
-    }
-
-    .project {
-      box-sizing: border-box;
-      -webkit-box-flex: 0;
-      -ms-flex: 0 0 auto;
-      flex: 0 0 auto;
-      -ms-flex-preferred-size: 100%; // was 50
-      flex-basis: 100%; // was 50
-      max-width: 100%; // was 50
-      padding-left: 0.83333em;
-      padding-right: 0.83333em;
-    }
-
-    .project-title {
-      font-size: 1.1em;
-      margin: 0;
-    }
-
-    &.layout-mosaic {
-      .project {
-        -ms-flex-preferred-size: 60%;
-        flex-basis: 60%;
-        max-width: 60%;
-
-        &:nth-child(4n+2),
-        &:nth-child(4n+3) {
-          -ms-flex-preferred-size: 40%;
-          flex-basis: 40%;
-          max-width: 40%;
-
-          .project-thumbnail {
-            &:before {
-              padding-top: calc(90% + 9px);
-            }
-          }
-        }
-      }
-    }
-
-    .project-header {
-      box-sizing: border-box;
-      left: 0;
-      margin: 0;
-      padding: 1.33333em;
-      position: absolute;
-      text-align: center;
-      top: 50%;
-      -webkit-transform: translateY(-50%);
-      transform: translateY(-50%);
-      width: 100%;
-      z-index: 2;
-    }
-
-    .project-title {
-      opacity: 1; // if this is 1, project titles always visible (761px and above only)
-      -webkit-transition: opacity .3s;
-      transition: opacity .3s;
-      background-color: rgba(255, 255, 255, 0.952); // added background to title
-      padding: 15px; // added background to title
-    }
-
-    .project-link {
-      color: #fff;
-
-      &:hover,
-      &:focus {
-        .project-title {
-          opacity: 1;
-        }
-
-        .project-thumbnail {
-          &:after {
-            opacity: 0; // this is the solid colour overlay over the image. Change to 1 to show it.
-            visibility: visible;
-          }
-        }
-      }
-    }
-  }
-}

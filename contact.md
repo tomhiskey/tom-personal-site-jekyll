@@ -15,3 +15,8 @@ tomhiskey@gmail.com
 
 [Medium](https://medium.com/@tomhiskey) 
 
+My pronouns are he/him. 
+
+![Tom at a design crit with Farewill colleagues](/images/Farewill-design-crit-arrow.webp "Me at a design crit")
+
+

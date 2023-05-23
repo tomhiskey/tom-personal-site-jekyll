@@ -1,5 +1,5 @@
 ---
-title: Gathering information about a person who's died @ Farewill
+title: Information about a person who's died @ Farewill
 subtitle: Complex requirements · UI · Usability · Collaboration · Internal tools (2020)
 date: '2020-05-10'
 thumb_image: images/fact-find-thumbnail.webp 

@@ -1,5 +1,5 @@
 ---
-title: Insights for business partners @ Kings Court Trust
+title: Insights for partners @ Kings Court Trust
 subtitle: Contextual research · Usability · UI · Measuring impact (2015)
 date: '2020-05-08'
 thumb_image: images/kct-partner-insight-new-2.webp 

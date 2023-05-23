@@ -50,7 +50,7 @@
   a {
     /* background: _palette(accent); */
     display: inline-block;
-    padding: 0.2em 0.45em;
+    padding: 0.2em 0em; // was 0.2em 0.45em; 
   }
 }
 
