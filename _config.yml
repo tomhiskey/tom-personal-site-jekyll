@@ -11,6 +11,9 @@ header:
   title: Tom Hiskey
   has_nav: true
   nav_links:
+    - label: About
+      url: /
+      style: link
     - label: Work
       url: /portfolio/
       style: link

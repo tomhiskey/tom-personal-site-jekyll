@@ -18,6 +18,12 @@ body {
   border: 18px solid _palette(charcoal-light-7);
 }
 
+@media only screen and (max-width: 540px) {
+  body {
+    border: 0px !important;
+  }
+}
+
 a {
   border-bottom: 1px solid currentColor;
   color: _palette(accent);

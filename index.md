@@ -22,11 +22,10 @@ accordion:
 
 ![Tom at a typewriter outside](/images/tom-typewriter.webp "Tom at a typewriter outside")
 
-I'm a design manager / lead at [Thriva](https://thriva.co/), London. 
+I'm a design manager / lead at [Thriva](https://thriva.co/), London. I live in York. My pronouns are he/him. 
 
-I’ve been in management roles since 2019. I strive to create safe spaces where people can be their best selves, develop in their careers and enjoy solving meaningful problems. [Read more about my work](/portfolio/) or [read my blog](/blog/).
+[Read more about my work](/portfolio/) or [check out my blog](/blog/).
 
-My pronouns are he/him. 
 
 <div class="feature-block" markdown="1">
 

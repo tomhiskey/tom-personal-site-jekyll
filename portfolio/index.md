@@ -49,3 +49,4 @@ Before transitioning to design management, I was a lead product designer. I'm st
 
 </div>
 
+Here are some projects I've led as a hands on designer...
