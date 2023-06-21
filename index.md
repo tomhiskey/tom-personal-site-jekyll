@@ -1,7 +1,7 @@
 ---
 title: Hello there! I'm Tom, a product design manager
 hide_title: false
-subtitle: I care about supporting people, elevating teams, designing human-centered products and shaping strategy. I'm based in the UK.
+subtitle: I care about supporting people, elevating teams, designing human-centered products and shaping strategy.
 layout: page
 accordion: 
   - title: Conditions I like to work in
