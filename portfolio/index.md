@@ -7,15 +7,20 @@ layout: portfolio
 
 <!-- layout style options: tiles and mosaic -->
 
+#### Jump to:&nbsp;  [Leadership  &#8595;](#leadership) &nbsp;&nbsp; [Design  &#8595;](#design)
+
+<div class="feature-block" markdown="1">
+
 > Empathy is Tom's superpower. It's really the basis of what makes him an amazing manager, facilitator and communicator. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – *360 feedback from a colleague, May 2021*
+</div>
 
----
+<br />
 
-## Design manager ## 
+## Leadership ## 
 
-I'm a design manager at [Thriva](https://thriva.co/). I help to:
+I'm a design manager / lead, most recently at [Thriva](https://thriva.co/) and [Farewill](https://farewill.com/), Series A scaleups in London. I help to:
 
 * Support my direct reports by caring genuinely, listening actively and through coaching, pairing and mentoring. I like the way that [Daniel Pink](https://www.danpink.com/books/drive/) puts it – that we're motivated by autonomy, mastery and purpose. 
 
@@ -35,11 +40,11 @@ I'm a design manager at [Thriva](https://thriva.co/). I help to:
 
 </div>
 
----
+<br />
 
-## Product designer
+## Design
 
-Before transitioning to design management, I was a lead product designer. I'm still hands on from time to time. As a designer, I try to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. 
+Before transitioning to design management, I was a lead product designer – and I'm still hands on at times. As a designer, I try to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. Below are a few case studies.
 
 <div class="feature-block" markdown="1">
 
@@ -49,4 +54,3 @@ Before transitioning to design management, I was a lead product designer. I'm st
 
 </div>
 
-Here are some projects I've led as a hands on designer...
