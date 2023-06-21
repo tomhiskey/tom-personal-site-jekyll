@@ -26,7 +26,7 @@ I'm a design manager / lead, most recently at [Thriva](https://thriva.co/) and [
 
 * Support and grow a diverse design team, helping set up rituals, tools, practices and an equitable working environment.
 
-* Support product leads and helping drive product impact by bringing a design perspective, building connections across teams and helping develop ways of working.  
+* Collaborate with cross-functional product leads and drive product impact by bringing a design perspective, building connections across teams and develop ways of working.  
 
 <div class="feature-block" markdown="1">
 
