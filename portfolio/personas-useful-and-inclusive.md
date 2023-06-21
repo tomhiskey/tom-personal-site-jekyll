@@ -2,7 +2,7 @@
 title: Relevant and inclusive personas @ Farewill
 subtitle:  July 2021
 date: '2021-09-10'
-thumb_image: images/personas-thumbnail.webp 
+thumb_image: images/thumbnail-personas-square.png 
 image: images/personas-thumbnail.webp 
 layout: project
 ---

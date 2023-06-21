@@ -2,7 +2,7 @@
 title: Internal tools @ Farewill
 subtitle: Complex problems · Testing · Collaboration · Communication · Leading projects (2020)
 date: '2020-05-10'
-thumb_image: images/what-happens-next-thumbnail.webp
+thumb_image: images/thumbnail-internal-tools-square.png
 image: images/what-happens-next-hi-fi-mockup.webp
 layout: project
 ---

@@ -2,7 +2,7 @@
 title: Cremation forms @ Farewill
 subtitle: Service design · Research · Observation · Internal tools (2020)
 date: '2020-05-10'
-thumb_image: images/cremation-forms-service-blueprint-2.webp 
+thumb_image: images/thumbnail-cremationforms-wide.png  
 image: images/cremation-forms-service-blueprint-2.webp 
 layout: project
 ---

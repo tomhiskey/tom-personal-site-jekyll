@@ -2,7 +2,7 @@
 title: Information about a person who's died @ Farewill
 subtitle: Complex requirements · UI · Usability · Collaboration · Internal tools (2020)
 date: '2020-05-10'
-thumb_image: images/fact-find-thumbnail.webp 
+thumb_image: images/thumbnail-person-died-wide.png 
 image: images/Fact-find-crit-sketch-later.webp 
 layout: project
 ---

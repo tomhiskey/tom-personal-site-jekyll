@@ -2,7 +2,7 @@
 title: Native results experience @ Thriva
 subtitle:  Revamping Thriva's native app experience from discovery to build, Aug 2022
 date: '2022-09-10'
-thumb_image: images/thriva-native-results.webp 
+thumb_image: images/thumbnail-thriva-results-wide.png 
 image: images/thriva-native-results.webp 
 layout: project
 ---

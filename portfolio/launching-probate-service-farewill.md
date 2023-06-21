@@ -2,7 +2,7 @@
 title: Launching a probate service @ Farewill
 subtitle: Discovery research · Service design · User profiling · Collaboration (2019)
 date: '2020-05-09'
-thumb_image: images/launching-probate-service-job-stories.webp 
+thumb_image: images/thumbnail-launching-probate-square.png
 image: images/launching-probate-service-job-stories.webp 
 layout: project
 ---
