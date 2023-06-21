@@ -32,7 +32,7 @@ accordion:
 
 I live in York (UK) and work in London, most recently at [Thriva](https://thriva.co/). My pronouns are he/him. 
 
-Here are some [case studies](/portfolio/) and [things I've written](/blog/).
+Here are some [case studies](/portfolio/) and [blog posts](/blog/).
 
 
 <hr>
