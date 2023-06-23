@@ -1,7 +1,7 @@
 ---
-title: Hello there! I'm Tom, a product design manager
+title: Hello there! I'm Tom, a product design lead / manager
 hide_title: false
-subtitle: I care about supporting people, elevating teams, designing human-centered products and shaping strategy.
+subtitle: I care about supporting people, elevating teams, shaping strategy and putting insights at the heart of design.
 layout: page
 accordion: 
   - title: Conditions I like to work in

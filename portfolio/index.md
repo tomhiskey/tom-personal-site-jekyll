@@ -20,13 +20,13 @@ layout: portfolio
 
 ## Leadership ## 
 
-I'm a design manager / lead, most recently at [Thriva](https://thriva.co/) and [Farewill](https://farewill.com/), Series A scaleups in London. I help to:
+I'm a design lead / manager, most recently at [Thriva](https://thriva.co/) and [Farewill](https://farewill.com/), Series A scaleups in London. As a manager, I help to:
 
 * Support my direct reports by caring genuinely, listening actively and through coaching, pairing and mentoring. I like the way that [Daniel Pink](https://www.danpink.com/books/drive/) puts it – that we're motivated by autonomy, mastery and purpose. 
 
 * Support and grow a diverse design team, helping set up rituals, tools, practices and an equitable working environment.
 
-* Collaborate with cross-functional product leads and drive product impact by bringing a design perspective, building connections across teams and develop ways of working.  
+* Collaborate with cross-functional product leads and drive product impact by bringing a design perspective, building connections across teams, driving strategy and developing ways of working.  
 
 <div class="feature-block" markdown="1">
 
@@ -44,7 +44,7 @@ I'm a design manager / lead, most recently at [Thriva](https://thriva.co/) and [
 
 ## Design
 
-Before transitioning to design management, I was a lead product designer – and I'm still hands on at times. As a designer, I try to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. Below are a few case studies.
+I've been a product designer for many years, and I still get a real buzz from being hands on. As a designer, I try to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. Below are a few case studies.
 
 <div class="feature-block" markdown="1">
 
