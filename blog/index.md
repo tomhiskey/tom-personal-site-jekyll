@@ -7,6 +7,10 @@ layout: page
 
 A few things I've written recently. I tend to [add new stuff to Medium](https://medium.com/@tomhiskey).
 
+**[Introducing Feedback Sense Check — your companion for better feedback](https://tomhiskey.medium.com/introducing-feedback-sense-check-your-companion-for-better-feedback-ff7f3bef0681)**
+· *Medium, June 2023*<br>
+Feedback is a gift, but it can trigger emotions which cause us to make irrational choices. Feedback Sense Check is a free tool I created with colleagues, to help give and receive feedback in a better way.
+
 **[Less faff, more capybaras](https://tomhiskey.medium.com/less-faff-more-capybaras-how-we-keep-our-work-visible-51c48469d495)**
 · *Medium, March 2023*<br>
 Thriva’s design team wanted to work more transparently. So we introduced a simple, visual Trello board, featuring the world’s largest rodent.
