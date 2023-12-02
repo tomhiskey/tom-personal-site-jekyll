@@ -1,5 +1,5 @@
 ---
-title: Hello there, I'm Tom – a product design lead / manager
+title: Hello there. I'm Tom, a product design lead / manager
 hide_title: false
 subtitle: I care about solving complex problems, building human-centered products and elevating teams.
 layout: page
