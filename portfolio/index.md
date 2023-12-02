@@ -39,9 +39,9 @@ I was a design manager at [Thriva](https://thriva.co/) and [Farewill](https://fa
 
 ## Design
 
-I've been a product designer for many years, and I still get a real buzz from being hands on. 
+I've been a product designer for 10+ years. I get a buzz from being hands on as part of a cross-functonal product team. 
 
-As a designer, I join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. Below are a few case studies.
+As a designer, I join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. I'm a hands on researcher and content designer, too. Below are a few case studies.
 
 <div class="feature-block" markdown="1">
 
