@@ -45,7 +45,7 @@ As a designer, I join the dots between complex problems and outcomes in a kind, 
 
 <div class="feature-block" markdown="1">
 
-> I’m frequently in awe at how Tom can take in what seems to be something incredibly complex or vague and loosely defined and produce out the other side a really clear and well understood model, diagram, design or kick-off doc
+> I’m in awe at how Tom can take in something incredibly complex or vague and loosely defined and produce a really clear and well understood model, diagram, design or kick-off doc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – *360 feedback from a colleague, May 2020*
 
