@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: 
+subtitle: In recent years I've worked in hybrid manager + I/C roles.
 layout_style: mosaic
 layout: portfolio
 ---
@@ -9,18 +9,11 @@ layout: portfolio
 
 #### Jump to:&nbsp;  [Leadership  &#8595;](#leadership) &nbsp;&nbsp; [Design  &#8595;](#design)
 
-<div class="feature-block" markdown="1">
-
-> Empathy is Tom's superpower. It's really the basis of what makes him an amazing manager, facilitator and communicator. 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – *360 feedback from a colleague, May 2021*
-</div>
-
-<br />
+<hr>
 
 ## Leadership ## 
 
-I'm a design lead / manager, most recently at [Thriva](https://thriva.co/) and [Farewill](https://farewill.com/), Series A scaleups in London. As a manager, I help to:
+I was a design manager at [Thriva](https://thriva.co/) and [Farewill](https://farewill.com/), Series A scaleups in London. As a manager, I help to:
 
 * Support my direct reports by caring genuinely, listening actively and through coaching, pairing and mentoring. I like the way that [Daniel Pink](https://www.danpink.com/books/drive/) puts it – that we're motivated by autonomy, mastery and purpose. 
 
@@ -29,6 +22,8 @@ I'm a design lead / manager, most recently at [Thriva](https://thriva.co/) and [
 * Collaborate with cross-functional product leads and drive product impact by bringing a design perspective, building connections across teams, driving strategy and developing ways of working.  
 
 <div class="feature-block" markdown="1">
+
+> Empathy is Tom's superpower. It's really the basis of what makes him an amazing manager, facilitator and communicator.
 
 >I do feel like I can come and talk to Tom about anything, he provides a safe space to talk about thing openly and honestly. From my first week, he made sure to make time to speak to me about my mental and physical health issues and trying to think about ways he can help.
 
@@ -44,7 +39,9 @@ I'm a design lead / manager, most recently at [Thriva](https://thriva.co/) and [
 
 ## Design
 
-I've been a product designer for many years, and I still get a real buzz from being hands on. As a designer, I try to join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. Below are a few case studies.
+I've been a product designer for many years, and I still get a real buzz from being hands on. 
+
+As a designer, I join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. Below are a few case studies.
 
 <div class="feature-block" markdown="1">
 

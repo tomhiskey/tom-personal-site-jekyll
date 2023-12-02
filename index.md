@@ -1,7 +1,7 @@
 ---
-title: Hello there! I'm Tom, a product design lead / manager
+title: Hello there, I'm Tom – a product design lead / manager
 hide_title: false
-subtitle: I care about supporting people, elevating teams, shaping strategy and putting insights at the heart of design.
+subtitle: I care about solving complex problems, building human-centered products and elevating teams.
 layout: page
 accordion: 
   - title: Conditions I like to work in
@@ -22,6 +22,23 @@ accordion:
 
 ![Tom at a typewriter outside](/images/tom-typewriter.webp "Tom at a typewriter outside")
 
+<div class="post-subtitle" markdown="1"></div>
+
+I’ve spent 10 years researching, designing and launching impactful digital products. And for the last few years, managing design and research teams too.
+
+I love big problems – deeply understanding them, then solving them, collaboratively. I'm a very visual person and I think in flows. I'm an advocate for research, content design and accessibility.
+
+I've most recently worked at [Spill](https://www.spill.chat/), [Thriva](https://thriva.co/) and [Farewill](https://farewill.com/), in London. For more about these and other roles, [see LinkedIn](https://www.linkedin.com/in/tom-hiskey-79390822/). 
+
+Feel free to take a look at [my case studies](/portfolio/) and [blog posts](/blog/).
+
+And [here's my user manual](/user-manual/), to help get to know me better.
+
+I live in York (UK). My pronouns are he/him.
+
+<br/>
+
+
 <div class="feature-block" markdown="1">
 
 > Curiosity, positivity, kindness, and a 'start with why' approach! Also some dope designs.
@@ -30,15 +47,4 @@ accordion:
 
 </div>
 
-I live in York (UK) and work in London, most recently at [Thriva](https://thriva.co/). My pronouns are he/him. 
 
-Here are some [case studies](/portfolio/) and [blog posts](/blog/).
-
-
-<hr>
-
-## <a name="user-manual"></a>My user manual
-
-Aka a [manual of me](https://manualofme.co/), to help teammates understand me a little better. Inspired by the likes of [Dan](https://medium.com/@dasbarrett/a-user-manual-for-dan-d0a285874f72), [Cassie](https://medium.com/@cassierobinson/a-user-manual-for-me-d3a851fbc694) and [Richard](https://medium.com/@mcleanonline/helping-other-people-get-to-know-you-aa2dbff5c0f8).
-
-{% include accordion.html %}
