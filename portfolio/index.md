@@ -1,6 +1,6 @@
 ---
 title: Work
-subtitle: In recent years I've worked in hybrid manager + I/C roles.
+subtitle: In recent years I've worked in hybrid I/C + manager roles.
 layout_style: mosaic
 layout: portfolio
 ---

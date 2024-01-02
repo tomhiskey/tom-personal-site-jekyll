@@ -1,7 +1,7 @@
 ---
 title: Hello there! I'm Tom, a product design lead / manager.
 hide_title: false
-subtitle: I care about solving complex problems, building human-centered products and elevating teams.
+subtitle: I care about solving complex problems and building human-centered products, collaboratively.
 layout: page 
 ---
 
