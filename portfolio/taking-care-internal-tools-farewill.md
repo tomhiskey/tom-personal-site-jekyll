@@ -1,6 +1,6 @@
 ---
 title: Internal tools @ Farewill
-subtitle: Complex problems · Testing · Collaboration · Communication · Leading projects (2020)
+subtitle: Dealing with ambiguous problems and requirements to built a significant 0 to 1 product · 2020
 date: '2020-05-10'
 thumb_image: images/thumbnail-internal-tools-square.png
 image: images/what-happens-next-hi-fi-mockup.webp
@@ -75,8 +75,6 @@ I brought elements of the project to our design crit every week for about 2 mont
 Before the project, we benchmarked the system usability score at 66. One of our goals was to reach a score of 70. We achieved this, reaching a score of 72 at the end of September, a few weeks after launch. (The [system usability scale](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html) is one way of measuring the usability of a product.)
 
 A second goal was to ensure that all new cases were run through Backstage (none on Trello) by the end of September. We achieved this on 10 October.
-
-We measured the average time from the initial fact find call to referral to our legal partners (a key metric for us and customers). Before the project it was 19 days. After the project, it was 6.1 days!
 
 ###  Reflections
 

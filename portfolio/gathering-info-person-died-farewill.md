@@ -1,6 +1,6 @@
 ---
 title: Information about a person who's died @ Farewill
-subtitle: Complex requirements · UI · Usability · Collaboration · Internal tools (2020)
+subtitle: A complex 0 to 1 project which reduced a key aspect of case time from 19 to 6 days (2020)
 date: '2020-05-10'
 thumb_image: images/thumbnail-person-died-wide.png 
 image: images/Fact-find-crit-sketch-later.webp 
@@ -100,6 +100,8 @@ For things like assets, we introduced a card pattern – users could add as many
 I worked closely with the engineers during the build. We ironed out various things collaboratively, like how users added notes to sections and how the data fed through to a summary page.
 
 ### Outcomes
+
+We measured the average time from the initial fact find call to referral to our legal partners (a key metric for us and customers). Before the project it was 19 days. After the project, it was 6.1 days!
 
 Everyone was incredibly pleased with the outcomes of the project. Although we expected to learn and make improvements after launch, very few changes were needed. 
 
