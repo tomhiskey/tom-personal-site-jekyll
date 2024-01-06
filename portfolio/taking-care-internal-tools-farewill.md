@@ -1,7 +1,7 @@
 ---
-title: Internal tools @ Farewill
+title: Case management @ Farewill
 subtitle: Dealing with ambiguous problems and requirements to built a significant 0 to 1 product · 2020
-date: '2020-05-10'
+date: '2021-11-01'
 thumb_image: images/thumbnail-internal-tools-square.png
 image: images/what-happens-next-hi-fi-mockup.webp
 layout: project
