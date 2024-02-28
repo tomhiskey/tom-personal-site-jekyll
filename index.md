@@ -1,7 +1,7 @@
 ---
-title: Hello there! I'm Tom, a senior product designer and manager.
+title: Hello there! I'm Tom, a product designer and manager.
 hide_title: false
-subtitle: I care about solving complex problems and building human-centered products, collaboratively.
+subtitle: I care about solving complex problems, building human-centered products and elevating teams.
 layout: page 
 ---
 
@@ -9,7 +9,7 @@ layout: page
 
 <div class="post-subtitle" markdown="1"></div>
 
-I’ve spent 10 years researching, designing and launching impactful digital products. And for the last few years, managing design and research teams too.
+I’ve spent the last few years leading high performing design and research teams. And 10 years as a product designer, launching impactful digital products. 
 
 I've most recently worked at [Spill](https://www.spill.chat/), [Thriva](https://thriva.co/) and [Farewill](https://farewill.com/), in London. For more about these and other roles, [see LinkedIn](https://www.linkedin.com/in/tom-hiskey-79390822/). 
 
