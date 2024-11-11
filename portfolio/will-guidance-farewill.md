@@ -5,6 +5,7 @@ date: '2020-05-09'
 thumb_image: images/thumbnail-will-guidance-square.png
 image: 
 layout: project
+published: false
 ---
 
 ### Problem

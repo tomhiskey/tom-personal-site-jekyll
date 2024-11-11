@@ -1,7 +1,7 @@
 ---
-title: Hello there! I'm Tom, a product designer and manager.
+title: Hello, I'm Tom – a senior product designer and manager
 hide_title: false
-subtitle: I care about solving complex problems, building human-centered products and elevating teams.
+subtitle: I care about solving complex customer problems and delivering impactful solutions, collaboratively.
 layout: page 
 ---
 
@@ -9,15 +9,19 @@ layout: page
 
 <div class="post-subtitle" markdown="1"></div>
 
-I’ve spent the last few years leading high performing design and research teams. And 10 years as a product designer, launching impactful digital products. 
+Over the past 10 years I’ve worked in the Health & Safety, Legal and Healthtech sectors. I’ve delivered successful products across web and mobile for enterprise B2B SaaS and scaling B2C startups.
 
-I've most recently worked at [Spill](https://www.spill.chat/), [Thriva](https://thriva.co/) and [Farewill](https://farewill.com/), in London. For more about these and other roles, [see LinkedIn](https://www.linkedin.com/in/tom-hiskey-79390822/). 
+I’m an end-to-end product designer and researcher, relishing everything from deep problem discovery to crafting delightful, accessible UI – always cross-functionally. 
 
-Feel free to take a look at [my case studies](/portfolio/) and [blog posts](/blog/).
+I work with peers on prioritisation, planning and strategy. I’ve been a line manager and I’ve led high performing design and research teams.
 
-And [here's my user manual](/user-manual/), to help get to know me better.
+Take a look...
 
-I live in York (UK). My pronouns are he/him.
+* [Case studies](/portfolio/)
+* [Blog posts](/blog/)
+* [My user manual](/user-manual/)
+
+I live in York, UK. My pronouns are he/him.
 
 <br/>
 

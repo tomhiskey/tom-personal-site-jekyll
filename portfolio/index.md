@@ -6,13 +6,9 @@ layout: portfolio
 ---
 
 <!-- layout style options: tiles and mosaic -->
-I've been a design manager for 5 years and product designer for 10.
 
-As a designer, I join the dots between complex problems and outcomes in a kind, open and deeply collaborative way. I'm also a hands on researcher and content designer. 
+&rarr; Case studies below, or read more about my [management and leadership experience](/leadership)
 
-&rarr; Read more about my [management and leadership experience](/leadership).
-
-## Product design case studies
 
 <div class="feature-block" markdown="1">
 
