@@ -7,7 +7,7 @@ layout: portfolio
 
 <!-- layout style options: tiles and mosaic -->
 
-&rarr; Case studies below, or read more about my [management and leadership experience](/leadership)
+&rarr; Case studies below, or read about my [management experience](/leadership)
 
 
 <div class="feature-block" markdown="1">
