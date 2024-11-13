@@ -1,6 +1,6 @@
 ---
-title: Case management @ Farewill
-subtitle: Dealing with ambiguous problems and requirements to built a significant 0 to 1 product · 2020
+title: Case management · Farewill
+subtitle: Dealing with ambiguous problems and requirements to built a significant 0 to 1 product · 2020 · Internal tooling
 date: '2021-11-01'
 thumb_image: images/thumbnail-internal-tools-square.png
 image: images/what-happens-next-hi-fi-mockup.webp

@@ -14,7 +14,7 @@ layout: portfolio
 
 > I’m in awe at how Tom can take in something incredibly complex or vague or loosely defined and produce a really clear and well understood model, diagram, design or kick-off doc
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – *360 feedback from a colleague, 2020*
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – *360 feedback from a colleague*
 
 </div>
 
