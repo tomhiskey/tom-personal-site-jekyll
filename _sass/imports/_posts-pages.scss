@@ -43,12 +43,44 @@
 .post-image {
   border: 0;
   display: block;
-  margin-bottom: 1.66667em;
+  margin-bottom: 3em; // was 1.6667em
 
   img {
     width: 100%;
   }
 }
+
+/* ADDED - BUT NOT NEEDED? Ensure the container allows overflow */
+.inner-sm {
+  overflow: visible; /* Allow content to spill out of the container */
+}
+
+/* ADDED Ensure padding doesn’t restrict width calculations */
+.inner-sm img {
+  box-sizing: border-box; /* Include padding and borders in width/height */
+}
+
+/* ADDED Target specific images inside .inner-sm */
+.inner-sm img.large-post-image {
+  max-width: none; /* Allow the image to exceed the parent container */
+  width: calc(100% + 400px); /* Example: 100px wider than the container */
+  margin-left: -200px !important; /* Center-align the wider image by pulling it left */
+}
+
+/* ADDED Responsive adjustments for smaller screens */
+@media screen and (max-width: 1150px) { // WAS 768px //
+  .inner-sm img.large-post-image {
+    width: 100%; /* Scale image to fit the screen width */
+    margin-left: 0 !important; /* Reset left margin */
+  }
+}
+
+/* ADDED Ensure the containing <p> does not restrict margins */
+.inner-sm p > img.large-post-image {
+  display: block; /* Ensure no inline spacing issues */
+  margin: 0 auto; /* Optional: Center the image */
+}
+
 
 /* Post feed */
 .post-thumbnail {

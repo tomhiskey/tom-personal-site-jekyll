@@ -146,7 +146,7 @@ We also tracked supplement purchases from the app, which increased around 25% af
 
 We tracked retention rate, though, as expected, trends can only be assessed over the long term, and are impacted by many things – it was hard to attribute to the changes we made during this project.
 
-![Recent UI designs](/images/thriva-results-final-designs.webp "Recent UI designs")
+![Recent UI designs](/images/thriva-results-final-designs.webp "Recent UI designs"){: .large-post-image}
 
 ### Reflections
 
