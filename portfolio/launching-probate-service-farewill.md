@@ -2,8 +2,9 @@
 title: Launching a probate service @ Farewill
 subtitle: Discovery research, service design and MVP for a major new product line · 2019
 date: '2020-05-11'
-thumb_image: images/thumbnail-launching-probate-square.png
+thumb_image: images/thumbnail-launching-probate-wide.png
 image: images/launching-probate-service-job-stories.webp 
+published: false
 layout: project
 ---
 

@@ -16,10 +16,15 @@ layout: body
         {{ content }}
       </div> <!-- end added -->
 
+      <div class="post-content inner-sm"> <!-- INNER - REMOVE THIS IF I WANT VERY WIDE THUMBNAILS -->
   <div class="portfolio-feed layout-{{ page.layout_style }}">
     {% assign display_projects = '/portfolio' | get_pages | sort: 'date' | reverse %}
     {% for post in display_projects %}
     <article class="project">
+      <header class="project-header">
+        <h2 class="project-title">{{ post.title }}</h2> <!-- was <h2 class="project-title">{{ post.title }}</h2>, I didn't want H2 -->
+        <p>{{ post.description }}</p> <!-- added -->
+      </header>
       <a href="{{ post.url | relative_url }}" class="project-link">
         {% assign thumb_image_is_not_empty = post.thumb_image | is_not_empty %}
         {% if thumb_image_is_not_empty %}
@@ -27,13 +32,13 @@ layout: body
           <img src="{{ post.thumb_image | relative_url }}" alt="{{ post.title }}" />
         </div>
         {% endif %}
-        <header class="project-header">
-          <div class="project-title">{{ post.title }}</div> <!-- was <h2 class="project-title">{{ post.title }}</h2>, I didn't want H2 -->
-        </header>
       </a>
     </article><!-- .project -->
     {% endfor %}
   </div><!-- .portfolio-feed -->
+
+
+</div> <!-- end of INNER -->
 
   <!-- Pagination TBD -->
   <!--

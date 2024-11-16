@@ -1,6 +1,7 @@
 ---
-title: Information about a person who's died · Farewill
-subtitle: A complex 0 to 1 project which reduced a key aspect of case time from 19 to 6 days · 2020 · Internal tooling
+title: Go To Market / Operations tooling, Farewill
+subtitle: A complex 0 to 1 project which reduced a key aspect of case time from 19 to 6 days
+description: Internal tooling · 2020
 date: '2020-05-10'
 thumb_image: images/thumbnail-person-died-wide.png 
 image: images/Fact-find-crit-sketch-later.webp 
