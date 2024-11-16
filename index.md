@@ -11,7 +11,7 @@ layout: page
 
 Over the past 10 years I’ve worked in the Health & Safety, Legal and Healthtech sectors, for EcoOnline, Thriva, Farewill and others. 
 
-I’ve delivered successful products across web and mobile for enterprise B2B SaaS and scaling B2C startups.
+I’ve delivered successful digital products across web and mobile for enterprise B2B SaaS and scaling B2C startups.
 
 I’m an end-to-end product designer and researcher, relishing everything from deep problem discovery to crafting delightful, accessible UI – always cross-functionally. 
 
