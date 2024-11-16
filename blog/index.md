@@ -5,7 +5,7 @@ hide_title: false
 layout: page
 ---
 
-A few things I've written recently. I tend to [add new stuff to Medium](https://medium.com/@tomhiskey).
+A few things I've written recently...
 
 **[Introducing Feedback Sense Check — your companion for better feedback](https://tomhiskey.medium.com/introducing-feedback-sense-check-your-companion-for-better-feedback-ff7f3bef0681)**
 · *Medium, June 2023*<br>
@@ -33,9 +33,7 @@ I’ve had plenty of ups and downs in the last 12 months. On the plus side, I fe
 
 **[I rebuilt my website the hard way](/blog/i-rebuilt-my-website-the-hard-way/)** · *Dec 2019*<br> Static site generators, Nunjucks, Git, Jekyll, Terminal, code editors...
 
-**[Design for print – achieving the best colours and blacks](/blog/design-for-print-achieving-the-best-colours-and-blacks)** · *Aug 2016*<br> I digress from the usual topic of UX to share some lessons from my recent foray into design for print, which was challenging, rewarding and fun.
 
-**[A few fabulous UX lessons from NUX4](/blog/a-few-fabulous-ux-lessons-from-nux4)** · *Oct 2015*<br> Yesterday was the fourth Northern User Experience conference in Manchester. A hugely impressive event, particularly considering it’s organised by an army of volunteers. 
 
 
 

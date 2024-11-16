@@ -5,6 +5,7 @@ date: '2021-09-01'
 thumb_image: images/thumbnail-personas-square.png 
 image: images/personas-feature-image.jpg 
 layout: project
+published: false
 ---
 
 <div class="feature-block" markdown="1">
