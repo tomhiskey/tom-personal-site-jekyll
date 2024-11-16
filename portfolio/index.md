@@ -12,7 +12,7 @@ layout: portfolio
 
 <div class="feature-block" markdown="1">
 
-> I’m in awe at how Tom can take in something incredibly complex or vague or loosely defined and produce a really clear and well understood model, diagram, design or kick-off doc
+> I’m in awe at how Tom can take in something incredibly complex or vague or loosely defined and produce a really clear and well understood model, diagram, design or doc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; – *360 feedback from a colleague*
 
