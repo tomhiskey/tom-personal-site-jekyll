@@ -3,7 +3,7 @@ title: Blood Test Results, Thriva
 subtitle:  Revamping Thriva's native app experience in 10 weeks, leading to a 30% drop in cancellations
 description: B2C · Native app · 2022
 date: '2022-09-10'
-thumb_image: images/thumbnail-thriva-results-wide.png 
+thumb_image: images/thumbnail-thriva-results-wide.webp 
 image: images/thriva-native-results.webp 
 layout: project
 ---
