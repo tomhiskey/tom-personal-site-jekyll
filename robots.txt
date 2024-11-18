@@ -1,5 +1,5 @@
 User-agent: *
-Disallow: /portfolio/ai-checklist-editor.md
-Disallow: /portfolio/risk-assessments.md
+Disallow: /portfolio/ai-checklist-editor/
+Disallow: /portfolio/risk-assessments/
 Disallow: /portfolio/
 Allow: /
