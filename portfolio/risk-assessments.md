@@ -12,7 +12,7 @@ layout: project
 
 EcoOnline offers a suite of Health & Safety (‘H&S’) products. One of them – our Risk Assessment module – was dramatically underperforming.
 
-Risk assessments are a foundation of health and safety. Although essential, only 23% of our customers used our Risk module. Customers wanted to see significant improvements so they could adopt the module and maximise the value of our full H&S suite.
+Risk assessments are a foundation of health and safety. Although they're a legal requirement, only 23% of our customers used our Risk module. Customers wanted to see significant improvements so they could adopt the module and maximise the value of our full H&S suite.
 
 
 
