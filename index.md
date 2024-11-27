@@ -1,5 +1,5 @@
 ---
-title: Hello, I'm Tom – a senior digital product designer
+title: Hello, I'm Tom – a senior product designer and manager
 hide_title: false
 subtitle: I care about solving complex customer problems and delivering impactful solutions, collaboratively.
 layout: page 
@@ -15,7 +15,7 @@ I’ve delivered successful digital products across web and mobile for enterpris
 
 I’m an end-to-end product designer and researcher, relishing everything from deep problem discovery to crafting delightful, accessible UI – always collaboratively. 
 
-I work with peers on planning and strategy. I’ve been a line manager and I’ve led high performing design and research teams.
+I work with peers on planning and strategy. I’m a line manager and I’ve led high performing design and research teams.
 
 Take a look...
 
