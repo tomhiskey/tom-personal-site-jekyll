@@ -17,11 +17,13 @@ I’m an end-to-end product designer and researcher, relishing everything from d
 
 I work with peers on planning and strategy. I’m a line manager and I’ve led high performing design and research teams.
 
-Take a look...
+Outside of work, I have a mission to help families deal with death – I've created an [end of life planner](https://afteradeath.com/end-of-life-planning-spreadsheet-before-death) and an [organiser to help executors with probate](https://afteradeath.com/after-death-spreadsheet-for-executors-probate).
+
+Take a look at my...
 
 * [Case studies](/portfolio/)
 * [Blog posts](/blog/)
-* [My user manual](/user-manual/)
+* [User manual](/user-manual/)
 * [LinkedIn](https://www.linkedin.com/in/tom-hiskey-79390822/)
 
 I live in York, UK. My pronouns are he/him.
